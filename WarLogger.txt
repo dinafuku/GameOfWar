@@ -1,0 +1,4119 @@
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 3H 6D 7S 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: 6S 4D 6H 
+The outcome of war 1 is Player 2
+Battle Number: 2
+Player Number: Player 1
+Player Hand: KH 10S 7D 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: 10D 10C 5H 
+The outcome of war 1 is Player 1
+Battle Number: 3
+Player Number: Player 1
+Player Hand: QH KC QD 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: 7C 2H 2D 
+The outcome of battle 3 is Player 1
+Battle Number: 4
+Player Number: Player 1
+Player Hand: AC 9C 3S 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: AD 8C 8D 
+The outcome of battle 4 is Player 1
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 5S 5D 9D 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: 9H 3D JH 
+The outcome of war 1 is Player 2
+Battle Number: 6
+Player Number: Player 1
+Player Hand: JS 3C KD 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 4C AH 8S 
+The outcome of battle 6 is Player 1
+Battle Number: 7
+Player Number: Player 1
+Player Hand: QS AS 7H 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 6C 5C 4S 
+The outcome of battle 7 is Player 1
+Battle Number: 8
+Player Number: Player 1
+Player Hand: KS JD 10H 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: 2S 8H 4H 
+The outcome of battle 8 is Player 1
+Battle Number: 9
+Player Number: Player 1
+Player Hand: 9S JC 7D 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: 6H 3H 4D 
+The outcome of battle 9 is Player 1
+Battle Number: 10
+Player Number: Player 1
+Player Hand: 10S KH 10C 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: 6D 6S 7S 
+The outcome of battle 10 is Player 1
+Battle Number: 11
+Player Number: Player 1
+Player Hand: 10D 5H 2H 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: QC 2C JH 
+The outcome of battle 11 is Player 2
+Battle Number: 12
+Player Number: Player 1
+Player Hand: 7C QH QD 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: 5S 9H 9D 
+The outcome of battle 12 is Player 1
+Battle Number: 13
+Player Number: Player 1
+Player Hand: KC 2D AD 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: 3D 5D 10D 
+The outcome of battle 13 is Player 1
+Battle Number: 14
+Player Number: Player 1
+Player Hand: 3S 8D 9C 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 2H 5H JH 
+The outcome of battle 14 is Player 1
+Battle Number: 15
+Player Number: Player 1
+Player Hand: 8C AC KD 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: QC 2C 
+The outcome of battle 15 is Player 1
+The winner of game 1 is Player 1
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 9C KC 7S 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: 8H 8S 5D 
+The outcome of battle 1 is Player 1
+Battle Number: 2
+Player Number: Player 1
+Player Hand: 9H QH QS 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: JD 7C 2S 
+The outcome of battle 2 is Player 1
+Battle Number: 3
+Player Number: Player 1
+Player Hand: 2H QC 4C 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: JH 6H 10D 
+The outcome of battle 3 is Player 2
+Battle Number: 4
+Player Number: Player 1
+Player Hand: 9S AC 3D 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: 6C 2C JC 
+The outcome of battle 4 is Player 1
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 6S 5C KH 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: JS 5S 6D 
+The outcome of war 2 is Player 1
+Battle Number: 6
+Player Number: Player 1
+Player Hand: QD 4H 4D 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 7H 5H 10H 
+The outcome of battle 6 is Player 2
+Battle Number: 7
+Player Number: Player 1
+Player Hand: AS AD 4S 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 3C AH 3S 
+The outcome of battle 7 is Player 1
+Battle Number: 8
+Player Number: Player 1
+Player Hand: 9D KS 7D 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: KD 10C 2D 
+The outcome of battle 8 is Player 2
+Battle Number: 9
+Player Number: Player 1
+Player Hand: 10S 8H 9C 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: 8C 2H QC 
+The outcome of battle 9 is Player 1
+Battle Number: 10
+Player Number: Player 1
+Player Hand: 5D 7S 8S 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: 6H 4C JH 
+The outcome of battle 10 is Player 1
+Battle Number: 11
+Player Number: Player 1
+Player Hand: KC 7C QS 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: 10D QD 7H 
+The outcome of battle 11 is Player 1
+Battle Number: 12
+Player Number: Player 1
+Player Hand: 9H QH JD 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: 10H 4D 5H 
+The outcome of battle 12 is Player 1
+Battle Number: 13
+Player Number: Player 1
+Player Hand: 2S 9S JC 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: 4H KD 7D 
+The outcome of battle 13 is Player 1
+Battle Number: 14
+Player Number: Player 1
+Player Hand: 3D 2C 6C 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 2D 9D KS 
+The outcome of battle 14 is Player 2
+Battle Number: 15
+Player Number: Player 1
+Player Hand: AC 8D 3H 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: 10C 2D 9D 
+The outcome of battle 15 is Player 2
+Battle Number: 16
+Player Number: Player 1
+Player Hand: KH 5S 6S 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: 3D KS 2C 
+The outcome of battle 16 is Player 1
+Battle Number: 17
+Player Number: Player 1
+Player Hand: 6D 5C JS 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: 6C AC 2D 
+The outcome of war 2 is Player 1
+Battle Number: 18
+Player Number: Player 1
+Player Hand: AD AH 3S 
+Battle Number: 18
+Player Number: Player 2
+Player Hand: 10C 9D 8D 
+The outcome of battle 18 is Player 1
+The winner of game 2 is Player 1
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 8S 6D 10C 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: 7H 10D 8C 
+The outcome of war 3 is Player 2
+Battle Number: 2
+Player Number: Player 1
+Player Hand: 4D 5S QH 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: 5D 6H AD 
+The outcome of battle 2 is Player 2
+Battle Number: 3
+Player Number: Player 1
+Player Hand: 3S QD JC 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: 5C 2C KS 
+The outcome of battle 3 is Player 1
+Battle Number: 4
+Player Number: Player 1
+Player Hand: 4S 9S QC 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: 5H 3D 6S 
+The outcome of battle 4 is Player 1
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 9D KH 3H 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: 3C 2H AS 
+The outcome of battle 5 is Player 1
+Battle Number: 6
+Player Number: Player 1
+Player Hand: 4H JS 8D 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 7C QS KC 
+The outcome of battle 6 is Player 2
+Battle Number: 7
+Player Number: Player 1
+Player Hand: AH 7D 2S 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 9C 2D 6C 
+The outcome of battle 7 is Player 1
+Battle Number: 8
+Player Number: Player 1
+Player Hand: JH 9H AC 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: 10H JD KD 
+The outcome of war 3 is Player 1
+Battle Number: 9
+Player Number: Player 1
+Player Hand: KS JC 2C 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: 7S 4C 8S 
+The outcome of battle 9 is Player 1
+Battle Number: 10
+Player Number: Player 1
+Player Hand: 3S QD 5C 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: 10C 6D 10D 
+The outcome of battle 10 is Player 2
+Battle Number: 11
+Player Number: Player 1
+Player Hand: 6S 5H 9S 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: 7H 8C 5D 
+The outcome of battle 11 is Player 2
+Battle Number: 12
+Player Number: Player 1
+Player Hand: 4S 3D QC 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: QH AD 5S 
+The outcome of battle 12 is Player 2
+Battle Number: 13
+Player Number: Player 1
+Player Hand: 3C AS KH 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: 4D 6H JS 
+The outcome of battle 13 is Player 1
+Battle Number: 14
+Player Number: Player 1
+Player Hand: 9D 2H 3H 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: QS 8D 7C 
+The outcome of battle 14 is Player 2
+Battle Number: 15
+Player Number: Player 1
+Player Hand: AH 2D 9C 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: 4H KC 5C 
+The outcome of battle 15 is Player 1
+Battle Number: 16
+Player Number: Player 1
+Player Hand: 7D 2S 6C 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: 3S 10D 6D 
+The outcome of war 3 is Player 2
+Battle Number: 17
+Player Number: Player 1
+Player Hand: 9H KD JH 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: 9S 8C 5H 
+The outcome of battle 17 is Player 1
+Battle Number: 18
+Player Number: Player 1
+Player Hand: 10H JD AC 
+Battle Number: 18
+Player Number: Player 2
+Player Hand: 6S 7H 5D 
+The outcome of battle 18 is Player 1
+Battle Number: 19
+Player Number: Player 1
+Player Hand: 7S 8S KS 
+Battle Number: 19
+Player Number: Player 2
+Player Hand: 4S QH AD 
+The outcome of battle 19 is Player 2
+Battle Number: 20
+Player Number: Player 1
+Player Hand: 2C JC 4C 
+Battle Number: 20
+Player Number: Player 2
+Player Hand: 5S QC 3D 
+The outcome of battle 20 is Player 2
+Battle Number: 21
+Player Number: Player 1
+Player Hand: JS AS 4D 
+Battle Number: 21
+Player Number: Player 2
+Player Hand: 3H 9D 2H 
+The outcome of battle 21 is Player 1
+Battle Number: 22
+Player Number: Player 1
+Player Hand: 6H KH 3C 
+Battle Number: 22
+Player Number: Player 2
+Player Hand: QS 7C 8D 
+The outcome of battle 22 is Player 2
+Battle Number: 23
+Player Number: Player 1
+Player Hand: 5C 4H 2D 
+Battle Number: 23
+Player Number: Player 2
+Player Hand: 8H 10S QD 
+The outcome of battle 23 is Player 2
+Battle Number: 24
+Player Number: Player 1
+Player Hand: KC AH 9C 
+Battle Number: 24
+Player Number: Player 2
+Player Hand: 10C 3S 7D 
+The outcome of battle 24 is Player 1
+Battle Number: 25
+Player Number: Player 1
+Player Hand: 5H 9H 9S 
+Battle Number: 25
+Player Number: Player 2
+Player Hand: 10D 6C 2S 
+The outcome of battle 25 is Player 1
+Battle Number: 26
+Player Number: Player 1
+Player Hand: KD 8C JH 
+Battle Number: 26
+Player Number: Player 2
+Player Hand: 6D AD 7S 
+The outcome of battle 26 is Player 1
+Battle Number: 27
+Player Number: Player 1
+Player Hand: AC JD 6S 
+Battle Number: 27
+Player Number: Player 2
+Player Hand: 4S QH 8S 
+The outcome of battle 27 is Player 1
+Battle Number: 28
+Player Number: Player 1
+Player Hand: 5D 10H 7H 
+Battle Number: 28
+Player Number: Player 2
+Player Hand: KS JC 3D 
+The outcome of battle 28 is Player 2
+Battle Number: 29
+Player Number: Player 1
+Player Hand: JS 2H 4D 
+Battle Number: 29
+Player Number: Player 2
+Player Hand: 5S QC 4C 
+The outcome of battle 29 is Player 2
+Battle Number: 30
+Player Number: Player 1
+Player Hand: 3H AS 9D 
+Battle Number: 30
+Player Number: Player 2
+Player Hand: 2C 6H 3C 
+The outcome of battle 30 is Player 1
+Battle Number: 31
+Player Number: Player 1
+Player Hand: AH 10C KC 
+Battle Number: 31
+Player Number: Player 2
+Player Hand: KH QS 7C 
+The outcome of battle 31 is Player 1
+Battle Number: 32
+Player Number: Player 1
+Player Hand: 3S 7D 9C 
+Battle Number: 32
+Player Number: Player 2
+Player Hand: 8D 2D 10S 
+The outcome of battle 32 is Player 2
+Battle Number: 33
+Player Number: Player 1
+Player Hand: 5H 9H 6C 
+Battle Number: 33
+Player Number: Player 2
+Player Hand: 4H QD 5C 
+The outcome of battle 33 is Player 1
+Battle Number: 34
+Player Number: Player 1
+Player Hand: 10D 2S 9S 
+Battle Number: 34
+Player Number: Player 2
+Player Hand: 8H KS 10H 
+The outcome of battle 34 is Player 2
+Battle Number: 35
+Player Number: Player 1
+Player Hand: 7S 6D JH 
+Battle Number: 35
+Player Number: Player 2
+Player Hand: JC 7H 3D 
+The outcome of war 3 is Player 1
+Battle Number: 36
+Player Number: Player 1
+Player Hand: KD AD 8S 
+Battle Number: 36
+Player Number: Player 2
+Player Hand: JS 5S QC 
+The outcome of battle 36 is Player 1
+Battle Number: 37
+Player Number: Player 1
+Player Hand: 4S 6S JD 
+Battle Number: 37
+Player Number: Player 2
+Player Hand: 2H 4C 4D 
+The outcome of battle 37 is Player 1
+Battle Number: 38
+Player Number: Player 1
+Player Hand: QH AC AS 
+Battle Number: 38
+Player Number: Player 2
+Player Hand: 3S 9C 2D 
+The outcome of battle 38 is Player 1
+Battle Number: 39
+Player Number: Player 1
+Player Hand: 3C 3H 6H 
+Battle Number: 39
+Player Number: Player 2
+Player Hand: 7D 8D 10S 
+The outcome of battle 39 is Player 2
+Battle Number: 40
+Player Number: Player 1
+Player Hand: 2C 9D 7C 
+Battle Number: 40
+Player Number: Player 2
+Player Hand: 10H 10D KS 
+The outcome of battle 40 is Player 2
+Battle Number: 41
+Player Number: Player 1
+Player Hand: 10C QS KH 
+Battle Number: 41
+Player Number: Player 2
+Player Hand: 8H 9S 2S 
+The outcome of battle 41 is Player 1
+Battle Number: 42
+Player Number: Player 1
+Player Hand: AH KC QD 
+Battle Number: 42
+Player Number: Player 2
+Player Hand: 3H 3C 6H 
+The outcome of battle 42 is Player 1
+Battle Number: 43
+Player Number: Player 1
+Player Hand: 5C 5H 4H 
+Battle Number: 43
+Player Number: Player 2
+Player Hand: 7D 10S 8D 
+The outcome of battle 43 is Player 2
+Battle Number: 44
+Player Number: Player 1
+Player Hand: 9H 6C 8C 
+Battle Number: 44
+Player Number: Player 2
+Player Hand: 7C KS 10H 
+The outcome of battle 44 is Player 2
+Battle Number: 45
+Player Number: Player 1
+Player Hand: 5D JC 6D 
+Battle Number: 45
+Player Number: Player 2
+Player Hand: 9D 2C 10D 
+The outcome of battle 45 is Player 2
+Battle Number: 46
+Player Number: Player 1
+Player Hand: 3D 7H 7S 
+Battle Number: 46
+Player Number: Player 2
+Player Hand: 7D 5H 8D 
+The outcome of war 3 is Player 1
+Battle Number: 47
+Player Number: Player 1
+Player Hand: AD QC JS 
+Battle Number: 47
+Player Number: Player 2
+Player Hand: 4H 5C 6C 
+The outcome of battle 47 is Player 1
+Battle Number: 48
+Player Number: Player 1
+Player Hand: 5S KD 8S 
+Battle Number: 48
+Player Number: Player 2
+Player Hand: 10H 8C 7C 
+The outcome of war 3 is Player 2
+Battle Number: 49
+Player Number: Player 1
+Player Hand: 4C 4S 2H 
+Battle Number: 49
+Player Number: Player 2
+Player Hand: 9H 5D 6D 
+The outcome of battle 49 is Player 2
+Battle Number: 50
+Player Number: Player 1
+Player Hand: 6S JD 2D 
+Battle Number: 50
+Player Number: Player 2
+Player Hand: 2C 9D JC 
+The outcome of battle 50 is Player 2
+Battle Number: 51
+Player Number: Player 1
+Player Hand: 3S AC 9C 
+Battle Number: 51
+Player Number: Player 2
+Player Hand: 10D 4D KS 
+The outcome of battle 51 is Player 2
+Battle Number: 52
+Player Number: Player 1
+Player Hand: AS QH 2S 
+Battle Number: 52
+Player Number: Player 2
+Player Hand: KD 7C 8S 
+The outcome of battle 52 is Player 1
+Battle Number: 53
+Player Number: Player 1
+Player Hand: 10C 8H KH 
+Battle Number: 53
+Player Number: Player 2
+Player Hand: 5S 10H 8C 
+The outcome of battle 53 is Player 1
+Battle Number: 54
+Player Number: Player 1
+Player Hand: 9S QS 3C 
+Battle Number: 54
+Player Number: Player 2
+Player Hand: 5D 9H 4C 
+The outcome of battle 54 is Player 1
+Battle Number: 55
+Player Number: Player 1
+Player Hand: 3H KC 6H 
+Battle Number: 55
+Player Number: Player 2
+Player Hand: 6D 4S 2H 
+The outcome of battle 55 is Player 1
+Battle Number: 56
+Player Number: Player 1
+Player Hand: QD AH 10S 
+Battle Number: 56
+Player Number: Player 2
+Player Hand: 6S 2D JC 
+The outcome of battle 56 is Player 1
+Battle Number: 57
+Player Number: Player 1
+Player Hand: JH 8D 7D 
+Battle Number: 57
+Player Number: Player 2
+Player Hand: 9D 2C JD 
+The outcome of battle 57 is Player 2
+Battle Number: 58
+Player Number: Player 1
+Player Hand: 7H 5H 7S 
+Battle Number: 58
+Player Number: Player 2
+Player Hand: 4D 9C KS 
+The outcome of battle 58 is Player 2
+Battle Number: 59
+Player Number: Player 1
+Player Hand: 3D AD 4H 
+Battle Number: 59
+Player Number: Player 2
+Player Hand: 3S AC 10D 
+The outcome of battle 59 is Player 2
+Battle Number: 60
+Player Number: Player 1
+Player Hand: 6C QC 5C 
+Battle Number: 60
+Player Number: Player 2
+Player Hand: 9D 2C JD 
+The outcome of battle 60 is Player 2
+Battle Number: 61
+Player Number: Player 1
+Player Hand: JS AS 7C 
+Battle Number: 61
+Player Number: Player 2
+Player Hand: 8D 7D JH 
+The outcome of battle 61 is Player 1
+Battle Number: 62
+Player Number: Player 1
+Player Hand: 2S 8S QH 
+Battle Number: 62
+Player Number: Player 2
+Player Hand: KS 7H 7S 
+The outcome of battle 62 is Player 1
+Battle Number: 63
+Player Number: Player 1
+Player Hand: KD 10C 8C 
+Battle Number: 63
+Player Number: Player 2
+Player Hand: 5H 4D 9C 
+The outcome of battle 63 is Player 1
+Battle Number: 64
+Player Number: Player 1
+Player Hand: 8H 5S 10H 
+Battle Number: 64
+Player Number: Player 2
+Player Hand: 3S AC 10D 
+The outcome of battle 64 is Player 2
+Battle Number: 65
+Player Number: Player 1
+Player Hand: KH 9H 4C 
+Battle Number: 65
+Player Number: Player 2
+Player Hand: AD 3D 4H 
+The outcome of battle 65 is Player 1
+Battle Number: 66
+Player Number: Player 1
+Player Hand: QS 9S 3C 
+Battle Number: 66
+Player Number: Player 2
+Player Hand: 6C 5C 9D 
+The outcome of battle 66 is Player 1
+Battle Number: 67
+Player Number: Player 1
+Player Hand: 5D 6H 4S 
+Battle Number: 67
+Player Number: Player 2
+Player Hand: QC JD 2C 
+The outcome of battle 67 is Player 2
+Battle Number: 68
+Player Number: Player 1
+Player Hand: KC 3H 6D 
+Battle Number: 68
+Player Number: Player 2
+Player Hand: AC 8H 3S 
+The outcome of battle 68 is Player 2
+Battle Number: 69
+Player Number: Player 1
+Player Hand: 2H 10S JC 
+Battle Number: 69
+Player Number: Player 2
+Player Hand: 5S 10D 10H 
+The outcome of war 3 is Player 1
+Battle Number: 70
+Player Number: Player 1
+Player Hand: QD 2D AH 
+Battle Number: 70
+Player Number: Player 2
+Player Hand: 6H 5D QC 
+The outcome of battle 70 is Player 1
+Battle Number: 71
+Player Number: Player 1
+Player Hand: AS 7C 7D 
+Battle Number: 71
+Player Number: Player 2
+Player Hand: JD 2C KC 
+The outcome of battle 71 is Player 2
+Battle Number: 72
+Player Number: Player 1
+Player Hand: 8D JS JH 
+Battle Number: 72
+Player Number: Player 2
+Player Hand: 8H 6D 3H 
+The outcome of battle 72 is Player 1
+Battle Number: 73
+Player Number: Player 1
+Player Hand: 8S KS 2S 
+Battle Number: 73
+Player Number: Player 2
+Player Hand: AC 3S 2C 
+The outcome of battle 73 is Player 1
+Battle Number: 74
+Player Number: Player 1
+Player Hand: 7S QH 7H 
+Battle Number: 74
+Player Number: Player 2
+Player Hand: 7D AS JD 
+The outcome of battle 74 is Player 2
+Battle Number: 75
+Player Number: Player 1
+Player Hand: KD 5H 4D 
+Battle Number: 75
+Player Number: Player 2
+Player Hand: KC 7C QH 
+The outcome of battle 75 is Player 2
+Battle Number: 76
+Player Number: Player 1
+Player Hand: 9C 10C 8C 
+Battle Number: 76
+Player Number: Player 2
+Player Hand: JD AS 7D 
+The outcome of battle 76 is Player 2
+Battle Number: 77
+Player Number: Player 1
+Player Hand: 4H 4C AD 
+Battle Number: 77
+Player Number: Player 2
+Player Hand: 7H 7S 7C 
+The outcome of battle 77 is Player 1
+Battle Number: 78
+Player Number: Player 1
+Player Hand: 9H 3D KH 
+Battle Number: 78
+Player Number: Player 2
+Player Hand: QH 4D 5H 
+The outcome of battle 78 is Player 1
+Battle Number: 79
+Player Number: Player 1
+Player Hand: 3C 9D 6C 
+Battle Number: 79
+Player Number: Player 2
+Player Hand: KC KD 10C 
+The outcome of battle 79 is Player 2
+Battle Number: 80
+Player Number: Player 1
+Player Hand: 5C QS 9S 
+Battle Number: 80
+Player Number: Player 2
+Player Hand: 7D JD 9C 
+The outcome of war 3 is Player 2
+Battle Number: 81
+Player Number: Player 1
+Player Hand: 4S 5S 10D 
+Battle Number: 81
+Player Number: Player 2
+Player Hand: 8C KD KC 
+The outcome of battle 81 is Player 2
+Battle Number: 82
+Player Number: Player 1
+Player Hand: JC 10H 2H 
+Battle Number: 82
+Player Number: Player 2
+Player Hand: 10C 3C 6C 
+The outcome of battle 82 is Player 1
+Battle Number: 83
+Player Number: Player 1
+Player Hand: 10S 6H QC 
+Battle Number: 83
+Player Number: Player 2
+Player Hand: 9D AS 6S 
+The outcome of battle 83 is Player 1
+Battle Number: 84
+Player Number: Player 1
+Player Hand: 2D QD AH 
+Battle Number: 84
+Player Number: Player 2
+Player Hand: 9C 5C JD 
+The outcome of battle 84 is Player 1
+Battle Number: 85
+Player Number: Player 1
+Player Hand: 5D JH 8H 
+Battle Number: 85
+Player Number: Player 2
+Player Hand: 7D QS 9S 
+The outcome of battle 85 is Player 2
+Battle Number: 86
+Player Number: Player 1
+Player Hand: JS 3H 6D 
+Battle Number: 86
+Player Number: Player 2
+Player Hand: 8C 10D 5S 
+The outcome of battle 86 is Player 2
+Battle Number: 87
+Player Number: Player 1
+Player Hand: 8D KS 2S 
+Battle Number: 87
+Player Number: Player 2
+Player Hand: KC KD 4S 
+The outcome of battle 87 is Player 2
+Battle Number: 88
+Player Number: Player 1
+Player Hand: 8S 3S 2C 
+Battle Number: 88
+Player Number: Player 2
+Player Hand: 8H QS 5D 
+The outcome of battle 88 is Player 2
+Battle Number: 89
+Player Number: Player 1
+Player Hand: AC 4H 7H 
+Battle Number: 89
+Player Number: Player 2
+Player Hand: JH 7D 9S 
+The outcome of battle 89 is Player 2
+Battle Number: 90
+Player Number: Player 1
+Player Hand: 4C 7C 7S 
+Battle Number: 90
+Player Number: Player 2
+Player Hand: 10D JS 6D 
+The outcome of battle 90 is Player 2
+Battle Number: 91
+Player Number: Player 1
+Player Hand: AD KH 4D 
+Battle Number: 91
+Player Number: Player 2
+Player Hand: 8C 5S 3H 
+The outcome of battle 91 is Player 1
+Battle Number: 92
+Player Number: Player 1
+Player Hand: QH 3D 5H 
+Battle Number: 92
+Player Number: Player 2
+Player Hand: KC 8D KS 
+The outcome of battle 92 is Player 2
+Battle Number: 93
+Player Number: Player 1
+Player Hand: 9H 10H 10C 
+Battle Number: 93
+Player Number: Player 2
+Player Hand: KD 4S 2S 
+The outcome of battle 93 is Player 1
+Battle Number: 94
+Player Number: Player 1
+Player Hand: 6C JC 2H 
+Battle Number: 94
+Player Number: Player 2
+Player Hand: 8H 8S 2C 
+The outcome of battle 94 is Player 2
+Battle Number: 95
+Player Number: Player 1
+Player Hand: 3C 10S QC 
+Battle Number: 95
+Player Number: Player 2
+Player Hand: 5D 3S QS 
+The outcome of battle 95 is Player 1
+Battle Number: 96
+Player Number: Player 1
+Player Hand: AS 6H 6S 
+Battle Number: 96
+Player Number: Player 2
+Player Hand: 4H 7H 7D 
+The outcome of battle 96 is Player 2
+Battle Number: 97
+Player Number: Player 1
+Player Hand: 9D JD 5C 
+Battle Number: 97
+Player Number: Player 2
+Player Hand: AC JH 9S 
+The outcome of battle 97 is Player 2
+Battle Number: 98
+Player Number: Player 1
+Player Hand: AH QD 9C 
+Battle Number: 98
+Player Number: Player 2
+Player Hand: 7S 6D 10D 
+The outcome of battle 98 is Player 1
+Battle Number: 99
+Player Number: Player 1
+Player Hand: 2D KH 3H 
+Battle Number: 99
+Player Number: Player 2
+Player Hand: JS 4C 7C 
+The outcome of battle 99 is Player 2
+Battle Number: 100
+Player Number: Player 1
+Player Hand: 8C 5S AD 
+Battle Number: 100
+Player Number: Player 2
+Player Hand: 8D 5H QH 
+The outcome of war 3 is Player 1
+Battle Number: 101
+Player Number: Player 1
+Player Hand: 9H 2S 4S 
+Battle Number: 101
+Player Number: Player 2
+Player Hand: KS KC 8H 
+The outcome of battle 101 is Player 2
+Battle Number: 102
+Player Number: Player 1
+Player Hand: KD 10H 10C 
+Battle Number: 102
+Player Number: Player 2
+Player Hand: JC 2C 2H 
+The outcome of battle 102 is Player 1
+Battle Number: 103
+Player Number: Player 1
+Player Hand: 3C 5D QC 
+Battle Number: 103
+Player Number: Player 2
+Player Hand: 8S 6C 6H 
+The outcome of battle 103 is Player 2
+Battle Number: 104
+Player Number: Player 1
+Player Hand: QS 3S 10S 
+Battle Number: 104
+Player Number: Player 2
+Player Hand: 7D 4H 7H 
+The outcome of battle 104 is Player 1
+Battle Number: 105
+Player Number: Player 1
+Player Hand: 9C 10D AH 
+Battle Number: 105
+Player Number: Player 2
+Player Hand: 6S AS AC 
+The outcome of battle 105 is Player 2
+Battle Number: 106
+Player Number: Player 1
+Player Hand: 7S 6D QD 
+Battle Number: 106
+Player Number: Player 2
+Player Hand: JD JH 5C 
+The outcome of battle 106 is Player 2
+Battle Number: 107
+Player Number: Player 1
+Player Hand: 3D 4D AD 
+Battle Number: 107
+Player Number: Player 2
+Player Hand: 9S 9D 7C 
+The outcome of battle 107 is Player 2
+Battle Number: 108
+Player Number: Player 1
+Player Hand: 8C 5S 5H 
+Battle Number: 108
+Player Number: Player 2
+Player Hand: KH JS 2D 
+The outcome of battle 108 is Player 2
+Battle Number: 109
+Player Number: Player 1
+Player Hand: QH 8D 2H 
+Battle Number: 109
+Player Number: Player 2
+Player Hand: 3H 4C KS 
+The outcome of battle 109 is Player 1
+Battle Number: 110
+Player Number: Player 1
+Player Hand: 10C JC 10H 
+Battle Number: 110
+Player Number: Player 2
+Player Hand: 9H 8H 2S 
+The outcome of battle 110 is Player 1
+Battle Number: 111
+Player Number: Player 1
+Player Hand: KD 2C 7H 
+Battle Number: 111
+Player Number: Player 2
+Player Hand: 4S KC 6H 
+The outcome of battle 111 is Player 1
+Battle Number: 112
+Player Number: Player 1
+Player Hand: 4H 7D 10S 
+Battle Number: 112
+Player Number: Player 2
+Player Hand: 8S 6C QC 
+The outcome of battle 112 is Player 2
+Battle Number: 113
+Player Number: Player 1
+Player Hand: QS 3S 4C 
+Battle Number: 113
+Player Number: Player 2
+Player Hand: 3C 5D 6S 
+The outcome of battle 113 is Player 2
+Battle Number: 114
+Player Number: Player 1
+Player Hand: 8D 3H 2H 
+Battle Number: 114
+Player Number: Player 2
+Player Hand: 9C 10D AS 
+The outcome of battle 114 is Player 2
+Battle Number: 115
+Player Number: Player 1
+Player Hand: QH KS 10H 
+Battle Number: 115
+Player Number: Player 2
+Player Hand: AC AH QD 
+The outcome of battle 115 is Player 2
+Battle Number: 116
+Player Number: Player 1
+Player Hand: 2S JC 8H 
+Battle Number: 116
+Player Number: Player 2
+Player Hand: 6D 5C JD 
+The outcome of battle 116 is Player 1
+Battle Number: 117
+Player Number: Player 1
+Player Hand: 9H 10C KD 
+Battle Number: 117
+Player Number: Player 2
+Player Hand: JH 7S 9D 
+The outcome of battle 117 is Player 1
+Battle Number: 118
+Player Number: Player 1
+Player Hand: 2C 4S 6H 
+Battle Number: 118
+Player Number: Player 2
+Player Hand: 9S 7C 4D 
+The outcome of battle 118 is Player 2
+Battle Number: 119
+Player Number: Player 1
+Player Hand: 7H KC JC 
+Battle Number: 119
+Player Number: Player 2
+Player Hand: 3D AD 5S 
+The outcome of battle 119 is Player 1
+Battle Number: 120
+Player Number: Player 1
+Player Hand: 6D JD 2S 
+Battle Number: 120
+Player Number: Player 2
+Player Hand: 2D 5H 8C 
+The outcome of battle 120 is Player 1
+Battle Number: 121
+Player Number: Player 1
+Player Hand: 5C 8H 9H 
+Battle Number: 121
+Player Number: Player 2
+Player Hand: JS KH 8S 
+The outcome of battle 121 is Player 2
+Battle Number: 122
+Player Number: Player 1
+Player Hand: 10C JH 9D 
+Battle Number: 122
+Player Number: Player 2
+Player Hand: 10S 7D 6C 
+The outcome of battle 122 is Player 1
+Battle Number: 123
+Player Number: Player 1
+Player Hand: KD 7S 3D 
+Battle Number: 123
+Player Number: Player 2
+Player Hand: QC 4H 4C 
+The outcome of battle 123 is Player 1
+Battle Number: 124
+Player Number: Player 1
+Player Hand: JC KC 7H 
+Battle Number: 124
+Player Number: Player 2
+Player Hand: 3C 5D 6S 
+The outcome of battle 124 is Player 1
+Battle Number: 125
+Player Number: Player 1
+Player Hand: AD 5S 8C 
+Battle Number: 125
+Player Number: Player 2
+Player Hand: 3S QS 3H 
+The outcome of battle 125 is Player 1
+Battle Number: 126
+Player Number: Player 1
+Player Hand: 2S JD 5H 
+Battle Number: 126
+Player Number: Player 2
+Player Hand: 9C 8D 2H 
+The outcome of battle 126 is Player 2
+Battle Number: 127
+Player Number: Player 1
+Player Hand: 6D 2D 6C 
+Battle Number: 127
+Player Number: Player 2
+Player Hand: 10D AS AH 
+The outcome of battle 127 is Player 2
+Battle Number: 128
+Player Number: Player 1
+Player Hand: JH 10S 7D 
+Battle Number: 128
+Player Number: Player 2
+Player Hand: 10H QD KS 
+The outcome of battle 128 is Player 2
+Battle Number: 129
+Player Number: Player 1
+Player Hand: 9D 10C QC 
+Battle Number: 129
+Player Number: Player 2
+Player Hand: AC QH 4D 
+The outcome of battle 129 is Player 2
+Battle Number: 130
+Player Number: Player 1
+Player Hand: 7S 4C KD 
+Battle Number: 130
+Player Number: Player 2
+Player Hand: 4S 9S 7C 
+The outcome of war 3 is Player 1
+Battle Number: 131
+Player Number: Player 1
+Player Hand: 4H KC 7H 
+Battle Number: 131
+Player Number: Player 2
+Player Hand: 6H 8S JS 
+The outcome of battle 131 is Player 2
+Battle Number: 132
+Player Number: Player 1
+Player Hand: 5D 6S JC 
+Battle Number: 132
+Player Number: Player 2
+Player Hand: KH 8H 9H 
+The outcome of battle 132 is Player 2
+Battle Number: 133
+Player Number: Player 1
+Player Hand: 3C 3H 5S 
+Battle Number: 133
+Player Number: Player 2
+Player Hand: 5C 9C JD 
+The outcome of battle 133 is Player 2
+Battle Number: 134
+Player Number: Player 1
+Player Hand: 8C QS AD 
+Battle Number: 134
+Player Number: Player 2
+Player Hand: 2S 8D 2H 
+The outcome of battle 134 is Player 1
+Battle Number: 135
+Player Number: Player 1
+Player Hand: 3S 3D 2C 
+Battle Number: 135
+Player Number: Player 2
+Player Hand: 5H 10D AH 
+The outcome of battle 135 is Player 2
+Battle Number: 136
+Player Number: Player 1
+Player Hand: KD 7S 4S 
+Battle Number: 136
+Player Number: Player 2
+Player Hand: 6C 2D 6D 
+The outcome of battle 136 is Player 1
+Battle Number: 137
+Player Number: Player 1
+Player Hand: 9S 7C 4C 
+Battle Number: 137
+Player Number: Player 2
+Player Hand: AS KS 10S 
+The outcome of battle 137 is Player 2
+Battle Number: 138
+Player Number: Player 1
+Player Hand: AD QS 8C 
+Battle Number: 138
+Player Number: Player 2
+Player Hand: JH QD 7D 
+The outcome of battle 138 is Player 1
+Battle Number: 139
+Player Number: Player 1
+Player Hand: 8D 2S 2H 
+Battle Number: 139
+Player Number: Player 2
+Player Hand: 10H 10C QH 
+The outcome of battle 139 is Player 2
+Battle Number: 140
+Player Number: Player 1
+Player Hand: KD 6C 7S 
+Battle Number: 140
+Player Number: Player 2
+Player Hand: AC 4D 9D 
+The outcome of battle 140 is Player 2
+Battle Number: 141
+Player Number: Player 1
+Player Hand: 4S 2D 6D 
+Battle Number: 141
+Player Number: Player 2
+Player Hand: QC 7H 4H 
+The outcome of battle 141 is Player 2
+Battle Number: 142
+Player Number: Player 1
+Player Hand: JH 8C AD 
+Battle Number: 142
+Player Number: Player 2
+Player Hand: KC 8S JS 
+The outcome of war 3 is Player 1
+Battle Number: 143
+Player Number: Player 1
+Player Hand: QD QS 7D 
+Battle Number: 143
+Player Number: Player 2
+Player Hand: 9H 6S 5D 
+The outcome of battle 143 is Player 1
+Battle Number: 144
+Player Number: Player 1
+Player Hand: 6H 8C AD 
+Battle Number: 144
+Player Number: Player 2
+Player Hand: 8H KH JC 
+The outcome of battle 144 is Player 2
+Battle Number: 145
+Player Number: Player 1
+Player Hand: JH JS 8S 
+Battle Number: 145
+Player Number: Player 2
+Player Hand: 5C 3C 3H 
+The outcome of battle 145 is Player 1
+Battle Number: 146
+Player Number: Player 1
+Player Hand: KC QD 6S 
+Battle Number: 146
+Player Number: Player 2
+Player Hand: JD 9C 5S 
+The outcome of battle 146 is Player 1
+Battle Number: 147
+Player Number: Player 1
+Player Hand: QS 7D 9H 
+Battle Number: 147
+Player Number: Player 2
+Player Hand: 3D 5H AH 
+The outcome of battle 147 is Player 1
+Battle Number: 148
+Player Number: Player 1
+Player Hand: 5D 5C 3H 
+Battle Number: 148
+Player Number: Player 2
+Player Hand: 2C 3S 10D 
+The outcome of battle 148 is Player 1
+Battle Number: 149
+Player Number: Player 1
+Player Hand: 8S 3C JS 
+Battle Number: 149
+Player Number: Player 2
+Player Hand: AS 7C KS 
+The outcome of battle 149 is Player 2
+Battle Number: 150
+Player Number: Player 1
+Player Hand: JH 5S JD 
+Battle Number: 150
+Player Number: Player 2
+Player Hand: 4C 10S 9S 
+The outcome of battle 150 is Player 1
+Battle Number: 151
+Player Number: Player 1
+Player Hand: 9C 6S KC 
+Battle Number: 151
+Player Number: Player 2
+Player Hand: 10H 2H 10C 
+The outcome of battle 151 is Player 2
+Battle Number: 152
+Player Number: Player 1
+Player Hand: QD 7D QS 
+Battle Number: 152
+Player Number: Player 2
+Player Hand: QH 8D 2S 
+The outcome of battle 152 is Player 1
+Battle Number: 153
+Player Number: Player 1
+Player Hand: 9H 5H AH 
+Battle Number: 153
+Player Number: Player 2
+Player Hand: 9D 4D AC 
+The outcome of war 3 is Player 2
+Battle Number: 154
+Player Number: Player 1
+Player Hand: 10D 3S 3H 
+Battle Number: 154
+Player Number: Player 2
+Player Hand: 7S KD 4S 
+The outcome of battle 154 is Player 2
+Battle Number: 155
+Player Number: Player 1
+Player Hand: 5C 2C 5D 
+Battle Number: 155
+Player Number: Player 2
+Player Hand: QC 6D 2D 
+The outcome of battle 155 is Player 2
+Battle Number: 156
+Player Number: Player 1
+Player Hand: 10S 5S JH 
+Battle Number: 156
+Player Number: Player 2
+Player Hand: 4H 7H AD 
+The outcome of battle 156 is Player 1
+Battle Number: 157
+Player Number: Player 1
+Player Hand: 9S JD 4C 
+Battle Number: 157
+Player Number: Player 2
+Player Hand: KH 8C 6H 
+The outcome of battle 157 is Player 1
+Battle Number: 158
+Player Number: Player 1
+Player Hand: 7D QD QS 
+Battle Number: 158
+Player Number: Player 2
+Player Hand: 8H JC 7C 
+The outcome of battle 158 is Player 1
+Battle Number: 159
+Player Number: Player 1
+Player Hand: 2S QH 8D 
+Battle Number: 159
+Player Number: Player 2
+Player Hand: 8S AS 3C 
+The outcome of war 3 is Player 2
+Battle Number: 160
+Player Number: Player 1
+Player Hand: 10S JH 5S 
+Battle Number: 160
+Player Number: Player 2
+Player Hand: KS 10C KC 
+The outcome of battle 160 is Player 2
+Battle Number: 161
+Player Number: Player 1
+Player Hand: 7H AD 9S 
+Battle Number: 161
+Player Number: Player 2
+Player Hand: 6S 10H 9C 
+The outcome of war 3 is Player 1
+Battle Number: 162
+Player Number: Player 1
+Player Hand: 6H JD KH 
+Battle Number: 162
+Player Number: Player 2
+Player Hand: 6C 3D AC 
+The outcome of battle 162 is Player 1
+Battle Number: 163
+Player Number: Player 1
+Player Hand: 8C QD 7C 
+Battle Number: 163
+Player Number: Player 2
+Player Hand: 4D AH 9D 
+The outcome of battle 163 is Player 2
+Battle Number: 164
+Player Number: Player 1
+Player Hand: QS 7D 8H 
+Battle Number: 164
+Player Number: Player 2
+Player Hand: 5H 9H 3S 
+The outcome of battle 164 is Player 1
+Battle Number: 165
+Player Number: Player 1
+Player Hand: JC 2H 4C 
+Battle Number: 165
+Player Number: Player 2
+Player Hand: 4S 7S 3H 
+The outcome of war 3 is Player 2
+Battle Number: 166
+Player Number: Player 1
+Player Hand: 10H 7H 9S 
+Battle Number: 166
+Player Number: Player 2
+Player Hand: KD 2C 5D 
+The outcome of battle 166 is Player 1
+Battle Number: 167
+Player Number: Player 1
+Player Hand: AD 6S KH 
+Battle Number: 167
+Player Number: Player 2
+Player Hand: 5C 6D 2D 
+The outcome of battle 167 is Player 1
+Battle Number: 168
+Player Number: Player 1
+Player Hand: 6C AC 3D 
+Battle Number: 168
+Player Number: Player 2
+Player Hand: QC JS 4H 
+The outcome of battle 168 is Player 2
+Battle Number: 169
+Player Number: Player 1
+Player Hand: JD 6H 3S 
+Battle Number: 169
+Player Number: Player 2
+Player Hand: QH 8S AS 
+The outcome of battle 169 is Player 2
+Battle Number: 170
+Player Number: Player 1
+Player Hand: 5H 9H QS 
+Battle Number: 170
+Player Number: Player 2
+Player Hand: 2S 8D 3C 
+The outcome of battle 170 is Player 1
+Battle Number: 171
+Player Number: Player 1
+Player Hand: 7D 8H 5D 
+Battle Number: 171
+Player Number: Player 2
+Player Hand: 5S 10C KC 
+The outcome of battle 171 is Player 2
+Battle Number: 172
+Player Number: Player 1
+Player Hand: 9S KD 2C 
+Battle Number: 172
+Player Number: Player 2
+Player Hand: 10S JH KS 
+The outcome of battle 172 is Player 2
+Battle Number: 173
+Player Number: Player 1
+Player Hand: 10H 7H 5C 
+Battle Number: 173
+Player Number: Player 2
+Player Hand: QD 9D 4D 
+The outcome of battle 173 is Player 2
+Battle Number: 174
+Player Number: Player 1
+Player Hand: 6D AD 2D 
+Battle Number: 174
+Player Number: Player 2
+Player Hand: 8C 7C AH 
+The outcome of battle 174 is Player 2
+Battle Number: 175
+Player Number: Player 1
+Player Hand: 6S KH 5H 
+Battle Number: 175
+Player Number: Player 2
+Player Hand: 10D 9C JC 
+The outcome of battle 175 is Player 2
+Battle Number: 176
+Player Number: Player 1
+Player Hand: 9H 3C 2S 
+Battle Number: 176
+Player Number: Player 2
+Player Hand: 4S 2H 7S 
+The outcome of battle 176 is Player 2
+Battle Number: 177
+Player Number: Player 1
+Player Hand: QS 8D 
+Battle Number: 177
+Player Number: Player 2
+Player Hand: 4C 3H JS 
+The outcome of battle 177 is Player 1
+Battle Number: 178
+Player Number: Player 1
+Player Hand: JS 3H 8D 
+Battle Number: 178
+Player Number: Player 2
+Player Hand: AC 3D 6C 
+The outcome of battle 178 is Player 1
+Battle Number: 179
+Player Number: Player 1
+Player Hand: QS 4C AC 
+Battle Number: 179
+Player Number: Player 2
+Player Hand: QC 4H AS 
+The outcome of war 3 is Player 2
+Battle Number: 180
+Player Number: Player 1
+Player Hand: 3H JS 3D 
+Battle Number: 180
+Player Number: Player 2
+Player Hand: 8S QH 6H 
+The outcome of battle 180 is Player 2
+Battle Number: 181
+Player Number: Player 1
+Player Hand: 8D 
+Battle Number: 181
+Player Number: Player 2
+Player Hand: 3S 10C 7D 
+The outcome of battle 181 is Player 1
+Battle Number: 182
+Player Number: Player 1
+Player Hand: 3S 8D 7D 
+Battle Number: 182
+Player Number: Player 2
+Player Hand: 5D 8H 5S 
+The outcome of battle 182 is Player 1
+Battle Number: 183
+Player Number: Player 1
+Player Hand: 10C 8H 7D 
+Battle Number: 183
+Player Number: Player 2
+Player Hand: KC 9S KD 
+The outcome of battle 183 is Player 2
+Battle Number: 184
+Player Number: Player 1
+Player Hand: 8D 5S 5D 
+Battle Number: 184
+Player Number: Player 2
+Player Hand: 2C 10S KS 
+The outcome of battle 184 is Player 2
+Battle Number: 185
+Player Number: Player 1
+Player Hand: 3S 
+Battle Number: 185
+Player Number: Player 2
+Player Hand: JH 9D 4D 
+The outcome of battle 185 is Player 2
+The outcome of war 3 is Player 2
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 4H AS 4C 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: 5D KH 8D 
+The outcome of battle 1 is Player 2
+Battle Number: 2
+Player Number: Player 1
+Player Hand: 10H 5C 2D 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: 5S KC QS 
+The outcome of battle 2 is Player 2
+Battle Number: 3
+Player Number: Player 1
+Player Hand: 4S 7D 9D 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: AC 2S 9S 
+The outcome of battle 3 is Player 2
+Battle Number: 4
+Player Number: Player 1
+Player Hand: AH 10S 7C 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: 3D 8S 9C 
+The outcome of battle 4 is Player 1
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 6H JH 6S 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: 10D AD QH 
+The outcome of battle 5 is Player 2
+Battle Number: 6
+Player Number: Player 1
+Player Hand: 5H 9H 3C 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: KD JC 3H 
+The outcome of battle 6 is Player 2
+Battle Number: 7
+Player Number: Player 1
+Player Hand: 7S JS 10C 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 3S 2H 2C 
+The outcome of battle 7 is Player 1
+Battle Number: 8
+Player Number: Player 1
+Player Hand: 8C 7H 8H 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: 6C JD QC 
+The outcome of battle 8 is Player 2
+Battle Number: 9
+Player Number: Player 1
+Player Hand: 4D QD 8S 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: KS 6D 5D 
+The outcome of battle 9 is Player 1
+Battle Number: 10
+Player Number: Player 1
+Player Hand: 3D AH 10S 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: 8D KH AS 
+The outcome of battle 10 is Player 2
+Battle Number: 11
+Player Number: Player 1
+Player Hand: 9C 7C 2H 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: 4C 4H KC 
+The outcome of battle 11 is Player 2
+Battle Number: 12
+Player Number: Player 1
+Player Hand: 10C 2C 7S 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: 5C 10H 2D 
+The outcome of battle 12 is Player 1
+Battle Number: 13
+Player Number: Player 1
+Player Hand: JS 3S QD 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: QS 5S 7D 
+The outcome of battle 13 is Player 1
+Battle Number: 14
+Player Number: Player 1
+Player Hand: KS 5D 6D 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 9S 9D 4S 
+The outcome of battle 14 is Player 2
+Battle Number: 15
+Player Number: Player 1
+Player Hand: 8S 4D 2D 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: 2S AC 10D 
+The outcome of battle 15 is Player 2
+Battle Number: 16
+Player Number: Player 1
+Player Hand: 10C 10H 2C 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: 6S 6H QH 
+The outcome of battle 16 is Player 2
+Battle Number: 17
+Player Number: Player 1
+Player Hand: 5C 7S QD 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: JH AD 5H 
+The outcome of battle 17 is Player 2
+Battle Number: 18
+Player Number: Player 1
+Player Hand: JS QS 5S 
+Battle Number: 18
+Player Number: Player 2
+Player Hand: KD 9H 3C 
+The outcome of battle 18 is Player 1
+Battle Number: 19
+Player Number: Player 1
+Player Hand: 7D 3S 9H 
+Battle Number: 19
+Player Number: Player 2
+Player Hand: 3H JC 7H 
+The outcome of war 4 is Player 1
+Battle Number: 20
+Player Number: Player 1
+Player Hand: QS JS 3C 
+Battle Number: 20
+Player Number: Player 2
+Player Hand: JD QC 6C 
+The outcome of war 4 is Player 2
+Battle Number: 21
+Player Number: Player 1
+Player Hand: KD 8C JC 
+Battle Number: 21
+Player Number: Player 2
+Player Hand: KH 8D AS 
+The outcome of battle 21 is Player 2
+Battle Number: 22
+Player Number: Player 1
+Player Hand: 3H 3S 7H 
+Battle Number: 22
+Player Number: Player 2
+Player Hand: 3D AH 10S 
+The outcome of battle 22 is Player 2
+Battle Number: 23
+Player Number: Player 1
+Player Hand: 9H 7D 
+Battle Number: 23
+Player Number: Player 2
+Player Hand: 2H 4C 7C 
+The outcome of battle 23 is Player 1
+Battle Number: 24
+Player Number: Player 1
+Player Hand: 7D 7C 4C 
+Battle Number: 24
+Player Number: Player 2
+Player Hand: 4H KC 9C 
+The outcome of battle 24 is Player 2
+Battle Number: 25
+Player Number: Player 1
+Player Hand: 9H 2H 
+Battle Number: 25
+Player Number: Player 2
+Player Hand: 9S 9D 6D 
+The outcome of war 4 is Player 2
+The outcome of war 4 is Player 2
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 8S JD 8H 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: 4C QC 6C 
+The outcome of battle 1 is Player 1
+Battle Number: 2
+Player Number: Player 1
+Player Hand: 9H AS 7C 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: AH KD 9S 
+The outcome of battle 2 is Player 2
+Battle Number: 3
+Player Number: Player 1
+Player Hand: KC 9D JS 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: 3C AD KH 
+The outcome of battle 3 is Player 2
+Battle Number: 4
+Player Number: Player 1
+Player Hand: 2H 4S 3H 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: 6S 5S KS 
+The outcome of battle 4 is Player 2
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 8C 2D 6D 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: 7D 5H JH 
+The outcome of battle 5 is Player 2
+Battle Number: 6
+Player Number: Player 1
+Player Hand: QH AC 10H 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 6H 8D 4D 
+The outcome of battle 6 is Player 1
+Battle Number: 7
+Player Number: Player 1
+Player Hand: 5C 2C 7S 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 3S QD JC 
+The outcome of battle 7 is Player 2
+Battle Number: 8
+Player Number: Player 1
+Player Hand: 10S 9C 2S 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: 5D 3D 7H 
+The outcome of battle 8 is Player 1
+Battle Number: 9
+Player Number: Player 1
+Player Hand: QS 10C 8H 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: 4H 10D 9S 
+The outcome of battle 9 is Player 1
+Battle Number: 10
+Player Number: Player 1
+Player Hand: 6C JD QC 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: AS KD 7C 
+The outcome of battle 10 is Player 2
+Battle Number: 11
+Player Number: Player 1
+Player Hand: 8S 4C 8D 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: AH 9H KH 
+The outcome of battle 11 is Player 2
+Battle Number: 12
+Player Number: Player 1
+Player Hand: QH AC 4D 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: 9D AD 3C 
+The outcome of battle 12 is Player 1
+Battle Number: 13
+Player Number: Player 1
+Player Hand: 10H 6H 7H 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: KC JS 3H 
+The outcome of battle 13 is Player 2
+Battle Number: 14
+Player Number: Player 1
+Player Hand: 10S 9C 5D 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 4S 5S 6S 
+The outcome of battle 14 is Player 1
+Battle Number: 15
+Player Number: Player 1
+Player Hand: 3D 2S 9S 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: 2H KS 7D 
+The outcome of battle 15 is Player 2
+Battle Number: 16
+Player Number: Player 1
+Player Hand: 4H 10C 10D 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: 6D JH 8C 
+The outcome of battle 16 is Player 1
+Battle Number: 17
+Player Number: Player 1
+Player Hand: QS 8H 3C 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: 2D 5H JC 
+The outcome of battle 17 is Player 1
+Battle Number: 18
+Player Number: Player 1
+Player Hand: QH AC AD 
+Battle Number: 18
+Player Number: Player 2
+Player Hand: 5C 7S 2C 
+The outcome of battle 18 is Player 1
+Battle Number: 19
+Player Number: Player 1
+Player Hand: 9D 4D 5D 
+Battle Number: 19
+Player Number: Player 2
+Player Hand: 3S QD QC 
+The outcome of battle 19 is Player 2
+Battle Number: 20
+Player Number: Player 1
+Player Hand: 4S 6S 5S 
+Battle Number: 20
+Player Number: Player 2
+Player Hand: KD AS 6C 
+The outcome of battle 20 is Player 2
+Battle Number: 21
+Player Number: Player 1
+Player Hand: 10S 9C 10D 
+Battle Number: 21
+Player Number: Player 2
+Player Hand: JD 7C AH 
+The outcome of battle 21 is Player 2
+Battle Number: 22
+Player Number: Player 1
+Player Hand: 10C 6D 8C 
+Battle Number: 22
+Player Number: Player 2
+Player Hand: 8S 9H 4C 
+The outcome of war 5 is Player 2
+Battle Number: 23
+Player Number: Player 1
+Player Hand: JH 5H QS 
+Battle Number: 23
+Player Number: Player 2
+Player Hand: KH 7H 10H 
+The outcome of battle 23 is Player 1
+Battle Number: 24
+Player Number: Player 1
+Player Hand: 8H 2D 3C 
+Battle Number: 24
+Player Number: Player 2
+Player Hand: 3H JS KC 
+The outcome of battle 24 is Player 2
+Battle Number: 25
+Player Number: Player 1
+Player Hand: JC 5C QH 
+Battle Number: 25
+Player Number: Player 2
+Player Hand: 6H KS 9S 
+The outcome of battle 25 is Player 1
+Battle Number: 26
+Player Number: Player 1
+Player Hand: 7S 2C AC 
+Battle Number: 26
+Player Number: Player 2
+Player Hand: 7D 2S 3D 
+The outcome of battle 26 is Player 1
+Battle Number: 27
+Player Number: Player 1
+Player Hand: AD 5H QS 
+Battle Number: 27
+Player Number: Player 2
+Player Hand: 2H QD QC 
+The outcome of war 5 is Player 1
+Battle Number: 28
+Player Number: Player 1
+Player Hand: JH 7H KH 
+Battle Number: 28
+Player Number: Player 2
+Player Hand: 9D 5D 4D 
+The outcome of battle 28 is Player 1
+Battle Number: 29
+Player Number: Player 1
+Player Hand: QH 6H 9S 
+Battle Number: 29
+Player Number: Player 2
+Player Hand: 6C 5S 4S 
+The outcome of battle 29 is Player 1
+Battle Number: 30
+Player Number: Player 1
+Player Hand: 5C KS JC 
+Battle Number: 30
+Player Number: Player 2
+Player Hand: KD 6S AS 
+The outcome of battle 30 is Player 2
+Battle Number: 31
+Player Number: Player 1
+Player Hand: 7S 2S 3D 
+Battle Number: 31
+Player Number: Player 2
+Player Hand: 7C 10D 9C 
+The outcome of battle 31 is Player 2
+Battle Number: 32
+Player Number: Player 1
+Player Hand: AC 2C 7D 
+Battle Number: 32
+Player Number: Player 2
+Player Hand: 10S JD AH 
+The outcome of battle 32 is Player 2
+Battle Number: 33
+Player Number: Player 1
+Player Hand: 10H 3S 2H 
+Battle Number: 33
+Player Number: Player 2
+Player Hand: 8D 4H 10C 
+The outcome of battle 33 is Player 2
+Battle Number: 34
+Player Number: Player 1
+Player Hand: QD QC QS 
+Battle Number: 34
+Player Number: Player 2
+Player Hand: 9H 8S 6D 
+The outcome of battle 34 is Player 1
+Battle Number: 35
+Player Number: Player 1
+Player Hand: AD 5H KH 
+Battle Number: 35
+Player Number: Player 2
+Player Hand: 8C 4C 8H 
+The outcome of battle 35 is Player 1
+Battle Number: 36
+Player Number: Player 1
+Player Hand: JH 7H 9D 
+Battle Number: 36
+Player Number: Player 2
+Player Hand: 2D KC 3C 
+The outcome of battle 36 is Player 1
+Battle Number: 37
+Player Number: Player 1
+Player Hand: 4D 5D 5S 
+Battle Number: 37
+Player Number: Player 2
+Player Hand: 3H JS KD 
+The outcome of battle 37 is Player 2
+Battle Number: 38
+Player Number: Player 1
+Player Hand: 6C 4S 9S 
+Battle Number: 38
+Player Number: Player 2
+Player Hand: AS 6S KS 
+The outcome of battle 38 is Player 2
+Battle Number: 39
+Player Number: Player 1
+Player Hand: 6H QH 6D 
+Battle Number: 39
+Player Number: Player 2
+Player Hand: 5C JC 7S 
+The outcome of battle 39 is Player 2
+Battle Number: 40
+Player Number: Player 1
+Player Hand: 9H QC QD 
+Battle Number: 40
+Player Number: Player 2
+Player Hand: 9C 10D 2S 
+The outcome of battle 40 is Player 1
+Battle Number: 41
+Player Number: Player 1
+Player Hand: QS 8S KH 
+Battle Number: 41
+Player Number: Player 2
+Player Hand: 7C 3D JD 
+The outcome of battle 41 is Player 1
+Battle Number: 42
+Player Number: Player 1
+Player Hand: 8H 4C 8C 
+Battle Number: 42
+Player Number: Player 2
+Player Hand: 10S 7D AH 
+The outcome of battle 42 is Player 2
+Battle Number: 43
+Player Number: Player 1
+Player Hand: AD 5H 2D 
+Battle Number: 43
+Player Number: Player 2
+Player Hand: 2C AC 2H 
+The outcome of battle 43 is Player 1
+Battle Number: 44
+Player Number: Player 1
+Player Hand: 3C 7H KC 
+Battle Number: 44
+Player Number: Player 2
+Player Hand: 10H 4H 3S 
+The outcome of battle 44 is Player 1
+Battle Number: 45
+Player Number: Player 1
+Player Hand: 9D JH QD 
+Battle Number: 45
+Player Number: Player 2
+Player Hand: 8D 10C 5D 
+The outcome of battle 45 is Player 1
+Battle Number: 46
+Player Number: Player 1
+Player Hand: 10D 2S 9H 
+Battle Number: 46
+Player Number: Player 2
+Player Hand: KD 4D JS 
+The outcome of battle 46 is Player 2
+Battle Number: 47
+Player Number: Player 1
+Player Hand: QC 9C QS 
+Battle Number: 47
+Player Number: Player 2
+Player Hand: 3H 5S 6S 
+The outcome of battle 47 is Player 1
+Battle Number: 48
+Player Number: Player 1
+Player Hand: JD 7C KH 
+Battle Number: 48
+Player Number: Player 2
+Player Hand: KS 6C 4S 
+The outcome of battle 48 is Player 1
+Battle Number: 49
+Player Number: Player 1
+Player Hand: 8S 3D 2D 
+Battle Number: 49
+Player Number: Player 2
+Player Hand: 9S AS QH 
+The outcome of battle 49 is Player 2
+Battle Number: 50
+Player Number: Player 1
+Player Hand: 2H 2C AD 
+Battle Number: 50
+Player Number: Player 2
+Player Hand: 6D 7S 6H 
+The outcome of battle 50 is Player 1
+Battle Number: 51
+Player Number: Player 1
+Player Hand: AC 5H 3C 
+Battle Number: 51
+Player Number: Player 2
+Player Hand: 5C JC 8H 
+The outcome of battle 51 is Player 2
+Battle Number: 52
+Player Number: Player 1
+Player Hand: 10H 3S KC 
+Battle Number: 52
+Player Number: Player 2
+Player Hand: 10S AH 4C 
+The outcome of war 5 is Player 2
+Battle Number: 53
+Player Number: Player 1
+Player Hand: 8D QD 9D 
+Battle Number: 53
+Player Number: Player 2
+Player Hand: 4D 9H 2S 
+The outcome of battle 53 is Player 1
+Battle Number: 54
+Player Number: Player 1
+Player Hand: 10C 5D JH 
+Battle Number: 54
+Player Number: Player 2
+Player Hand: KD 10D JS 
+The outcome of battle 54 is Player 2
+Battle Number: 55
+Player Number: Player 1
+Player Hand: QS 5S QC 
+Battle Number: 55
+Player Number: Player 2
+Player Hand: QH 9S 2D 
+The outcome of battle 55 is Player 1
+Battle Number: 56
+Player Number: Player 1
+Player Hand: 9C 6S 3H 
+Battle Number: 56
+Player Number: Player 2
+Player Hand: 8S AS 3D 
+The outcome of battle 56 is Player 2
+Battle Number: 57
+Player Number: Player 1
+Player Hand: 7C 4S KH 
+Battle Number: 57
+Player Number: Player 2
+Player Hand: JC 8H 3C 
+The outcome of battle 57 is Player 2
+Battle Number: 58
+Player Number: Player 1
+Player Hand: JD 6C KS 
+Battle Number: 58
+Player Number: Player 2
+Player Hand: 5C AC 5H 
+The outcome of battle 58 is Player 1
+Battle Number: 59
+Player Number: Player 1
+Player Hand: AD 6H 2C 
+Battle Number: 59
+Player Number: Player 2
+Player Hand: 7H 7D 8C 
+The outcome of battle 59 is Player 2
+Battle Number: 60
+Player Number: Player 1
+Player Hand: 7S 2H 6D 
+Battle Number: 60
+Player Number: Player 2
+Player Hand: 4H 3S AH 
+The outcome of battle 60 is Player 1
+Battle Number: 61
+Player Number: Player 1
+Player Hand: 9H 9D QD 
+Battle Number: 61
+Player Number: Player 2
+Player Hand: 10H 10S KC 
+The outcome of battle 61 is Player 2
+Battle Number: 62
+Player Number: Player 1
+Player Hand: 8D 4D 2S 
+Battle Number: 62
+Player Number: Player 2
+Player Hand: 4C 10C JH 
+The outcome of battle 62 is Player 2
+Battle Number: 63
+Player Number: Player 1
+Player Hand: 2D QH QC 
+Battle Number: 63
+Player Number: Player 2
+Player Hand: KD JS 10D 
+The outcome of battle 63 is Player 1
+Battle Number: 64
+Player Number: Player 1
+Player Hand: 9S QS 5S 
+Battle Number: 64
+Player Number: Player 2
+Player Hand: 5D 6S 3H 
+The outcome of battle 64 is Player 1
+Battle Number: 65
+Player Number: Player 1
+Player Hand: JD 6C 5H 
+Battle Number: 65
+Player Number: Player 2
+Player Hand: 8S 9C 3D 
+The outcome of battle 65 is Player 2
+Battle Number: 66
+Player Number: Player 1
+Player Hand: AC KS 5C 
+Battle Number: 66
+Player Number: Player 2
+Player Hand: AS 8H 3C 
+The outcome of battle 66 is Player 1
+Battle Number: 67
+Player Number: Player 1
+Player Hand: 2H 3S 6D 
+Battle Number: 67
+Player Number: Player 2
+Player Hand: 4S JC 7C 
+The outcome of battle 67 is Player 2
+Battle Number: 68
+Player Number: Player 1
+Player Hand: 4H 7S AH 
+Battle Number: 68
+Player Number: Player 2
+Player Hand: KH 7H 6H 
+The outcome of war 5 is Player 1
+Battle Number: 69
+Player Number: Player 1
+Player Hand: 10D KD JS 
+Battle Number: 69
+Player Number: Player 2
+Player Hand: AD 2C 8C 
+The outcome of battle 69 is Player 1
+Battle Number: 70
+Player Number: Player 1
+Player Hand: 2D QC 5S 
+Battle Number: 70
+Player Number: Player 2
+Player Hand: 9D 9H 10H 
+The outcome of battle 70 is Player 2
+Battle Number: 71
+Player Number: Player 1
+Player Hand: QS 9S 3H 
+Battle Number: 71
+Player Number: Player 2
+Player Hand: KC 10S QD 
+The outcome of battle 71 is Player 2
+Battle Number: 72
+Player Number: Player 1
+Player Hand: 5D 6S 8H 
+Battle Number: 72
+Player Number: Player 2
+Player Hand: 2S 4C JH 
+The outcome of battle 72 is Player 1
+Battle Number: 73
+Player Number: Player 1
+Player Hand: KS 3C 5C 
+Battle Number: 73
+Player Number: Player 2
+Player Hand: 8D 10C 4D 
+The outcome of battle 73 is Player 2
+Battle Number: 74
+Player Number: Player 1
+Player Hand: AS AC QH 
+Battle Number: 74
+Player Number: Player 2
+Player Hand: 8S JD 5H 
+The outcome of battle 74 is Player 1
+Battle Number: 75
+Player Number: Player 1
+Player Hand: 7D 7H 7S 
+Battle Number: 75
+Player Number: Player 2
+Player Hand: 3D 6C 9C 
+The outcome of battle 75 is Player 1
+Battle Number: 76
+Player Number: Player 1
+Player Hand: 6H KH AH 
+Battle Number: 76
+Player Number: Player 2
+Player Hand: 3S JC 6D 
+The outcome of battle 76 is Player 1
+Battle Number: 77
+Player Number: Player 1
+Player Hand: 4H 10D KD 
+Battle Number: 77
+Player Number: Player 2
+Player Hand: 7C 2H 4S 
+The outcome of battle 77 is Player 1
+Battle Number: 78
+Player Number: Player 1
+Player Hand: JS 8C AD 
+Battle Number: 78
+Player Number: Player 2
+Player Hand: 5S 2D 10H 
+The outcome of battle 78 is Player 1
+Battle Number: 79
+Player Number: Player 1
+Player Hand: 2C 4C 2S 
+Battle Number: 79
+Player Number: Player 2
+Player Hand: 9D 9H QC 
+The outcome of battle 79 is Player 2
+Battle Number: 80
+Player Number: Player 1
+Player Hand: 8H 6S 5D 
+Battle Number: 80
+Player Number: Player 2
+Player Hand: 3H KC 10S 
+The outcome of battle 80 is Player 2
+Battle Number: 81
+Player Number: Player 1
+Player Hand: JH 5H JD 
+Battle Number: 81
+Player Number: Player 2
+Player Hand: 9S QD QS 
+The outcome of battle 81 is Player 2
+Battle Number: 82
+Player Number: Player 1
+Player Hand: AS QH AC 
+Battle Number: 82
+Player Number: Player 2
+Player Hand: 5C 4D 8D 
+The outcome of battle 82 is Player 1
+Battle Number: 83
+Player Number: Player 1
+Player Hand: 8S 7D 7H 
+Battle Number: 83
+Player Number: Player 2
+Player Hand: KS 3C 10C 
+The outcome of battle 83 is Player 2
+Battle Number: 84
+Player Number: Player 1
+Player Hand: 7S 6C 9C 
+Battle Number: 84
+Player Number: Player 2
+Player Hand: 9H 9D QC 
+The outcome of battle 84 is Player 2
+Battle Number: 85
+Player Number: Player 1
+Player Hand: 3D 6H 3S 
+Battle Number: 85
+Player Number: Player 2
+Player Hand: 4C 2C 2S 
+The outcome of battle 85 is Player 1
+Battle Number: 86
+Player Number: Player 1
+Player Hand: KH 6D AH 
+Battle Number: 86
+Player Number: Player 2
+Player Hand: 5D 8H 3H 
+The outcome of battle 86 is Player 1
+Battle Number: 87
+Player Number: Player 1
+Player Hand: JC 4H 10D 
+Battle Number: 87
+Player Number: Player 2
+Player Hand: 6S 10S KC 
+The outcome of war 5 is Player 2
+Battle Number: 88
+Player Number: Player 1
+Player Hand: 7C KD 4S 
+Battle Number: 88
+Player Number: Player 2
+Player Hand: 5H 9S JD 
+The outcome of battle 88 is Player 2
+Battle Number: 89
+Player Number: Player 1
+Player Hand: 8C AD 5S 
+Battle Number: 89
+Player Number: Player 2
+Player Hand: QD QS 3C 
+The outcome of battle 89 is Player 2
+Battle Number: 90
+Player Number: Player 1
+Player Hand: 10H 2D JS 
+Battle Number: 90
+Player Number: Player 2
+Player Hand: 7H 10C 7D 
+The outcome of battle 90 is Player 1
+Battle Number: 91
+Player Number: Player 1
+Player Hand: QH 5C 4D 
+Battle Number: 91
+Player Number: Player 2
+Player Hand: KS 8S 9H 
+The outcome of battle 91 is Player 2
+Battle Number: 92
+Player Number: Player 1
+Player Hand: 8D AC AS 
+Battle Number: 92
+Player Number: Player 2
+Player Hand: 7S 9D 6C 
+The outcome of battle 92 is Player 1
+Battle Number: 93
+Player Number: Player 1
+Player Hand: 4C 6H 3S 
+Battle Number: 93
+Player Number: Player 2
+Player Hand: 9C QC 2H 
+The outcome of battle 93 is Player 2
+Battle Number: 94
+Player Number: Player 1
+Player Hand: 3D 2C 2S 
+Battle Number: 94
+Player Number: Player 2
+Player Hand: JH 10D 4H 
+The outcome of battle 94 is Player 2
+Battle Number: 95
+Player Number: Player 1
+Player Hand: 6D 3H 8H 
+Battle Number: 95
+Player Number: Player 2
+Player Hand: JC 10S 6S 
+The outcome of battle 95 is Player 2
+Battle Number: 96
+Player Number: Player 1
+Player Hand: 5D KH AH 
+Battle Number: 96
+Player Number: Player 2
+Player Hand: KC 7C 9S 
+The outcome of battle 96 is Player 1
+Battle Number: 97
+Player Number: Player 1
+Player Hand: 2D 7D 7H 
+Battle Number: 97
+Player Number: Player 2
+Player Hand: JD 5H 4S 
+The outcome of battle 97 is Player 1
+Battle Number: 98
+Player Number: Player 1
+Player Hand: 10H JS 10C 
+Battle Number: 98
+Player Number: Player 2
+Player Hand: KD 5S 3C 
+The outcome of battle 98 is Player 1
+Battle Number: 99
+Player Number: Player 1
+Player Hand: AC 6C 9D 
+Battle Number: 99
+Player Number: Player 2
+Player Hand: 8C QS AD 
+The outcome of battle 99 is Player 2
+Battle Number: 100
+Player Number: Player 1
+Player Hand: 8D 7S AS 
+Battle Number: 100
+Player Number: Player 2
+Player Hand: QD QH 9H 
+The outcome of battle 100 is Player 2
+Battle Number: 101
+Player Number: Player 1
+Player Hand: 9S KC KH 
+Battle Number: 101
+Player Number: Player 2
+Player Hand: 5C KS 4D 
+The outcome of battle 101 is Player 1
+Battle Number: 102
+Player Number: Player 1
+Player Hand: AH 5D 7C 
+Battle Number: 102
+Player Number: Player 2
+Player Hand: 8S 3S 6H 
+The outcome of battle 102 is Player 1
+Battle Number: 103
+Player Number: Player 1
+Player Hand: 7H 2D JD 
+Battle Number: 103
+Player Number: Player 2
+Player Hand: 4C QC 9C 
+The outcome of battle 103 is Player 2
+Battle Number: 104
+Player Number: Player 1
+Player Hand: 7D 4S 5H 
+Battle Number: 104
+Player Number: Player 2
+Player Hand: 2H 10D 4H 
+The outcome of battle 104 is Player 1
+Battle Number: 105
+Player Number: Player 1
+Player Hand: KD 5S 10C 
+Battle Number: 105
+Player Number: Player 2
+Player Hand: 2C 2S JH 
+The outcome of battle 105 is Player 2
+Battle Number: 106
+Player Number: Player 1
+Player Hand: JS 3C 10H 
+Battle Number: 106
+Player Number: Player 2
+Player Hand: 3D 3H 6D 
+The outcome of battle 106 is Player 1
+Battle Number: 107
+Player Number: Player 1
+Player Hand: KC KS KH 
+Battle Number: 107
+Player Number: Player 2
+Player Hand: 8H JC 6S 
+The outcome of battle 107 is Player 1
+Battle Number: 108
+Player Number: Player 1
+Player Hand: 4D 9S 5C 
+Battle Number: 108
+Player Number: Player 2
+Player Hand: 10S 9D AD 
+The outcome of battle 108 is Player 2
+Battle Number: 109
+Player Number: Player 1
+Player Hand: 6H 3S 7C 
+Battle Number: 109
+Player Number: Player 2
+Player Hand: QS 8C 6C 
+The outcome of battle 109 is Player 2
+Battle Number: 110
+Player Number: Player 1
+Player Hand: 5D 8S AH 
+Battle Number: 110
+Player Number: Player 2
+Player Hand: AC QD AS 
+The outcome of battle 110 is Player 2
+Battle Number: 111
+Player Number: Player 1
+Player Hand: 10D 4S 7D 
+Battle Number: 111
+Player Number: Player 2
+Player Hand: QH 9H 8D 
+The outcome of battle 111 is Player 2
+Battle Number: 112
+Player Number: Player 1
+Player Hand: 4H 2H 5H 
+Battle Number: 112
+Player Number: Player 2
+Player Hand: 7S JD 7H 
+The outcome of battle 112 is Player 2
+Battle Number: 113
+Player Number: Player 1
+Player Hand: 3H 3D 6D 
+Battle Number: 113
+Player Number: Player 2
+Player Hand: 2D 9C QC 
+The outcome of battle 113 is Player 2
+Battle Number: 114
+Player Number: Player 1
+Player Hand: JS 3C 10H 
+Battle Number: 114
+Player Number: Player 2
+Player Hand: 4C 5S KD 
+The outcome of battle 114 is Player 1
+Battle Number: 115
+Player Number: Player 1
+Player Hand: KC 6S KS 
+Battle Number: 115
+Player Number: Player 2
+Player Hand: JH 10C 2C 
+The outcome of battle 115 is Player 1
+Battle Number: 116
+Player Number: Player 1
+Player Hand: JC 8H KH 
+Battle Number: 116
+Player Number: Player 2
+Player Hand: 2S AD 5C 
+The outcome of battle 116 is Player 1
+Battle Number: 117
+Player Number: Player 1
+Player Hand: 5S 3C KD 
+Battle Number: 117
+Player Number: Player 2
+Player Hand: 9S 9D 10S 
+The outcome of battle 117 is Player 2
+Battle Number: 118
+Player Number: Player 1
+Player Hand: JS 10H 4C 
+Battle Number: 118
+Player Number: Player 2
+Player Hand: 4D 3S QS 
+The outcome of battle 118 is Player 1
+Battle Number: 119
+Player Number: Player 1
+Player Hand: 6S JH KS 
+Battle Number: 119
+Player Number: Player 2
+Player Hand: 7C 6H 6C 
+The outcome of battle 119 is Player 1
+Battle Number: 120
+Player Number: Player 1
+Player Hand: KC 10C 2C 
+Battle Number: 120
+Player Number: Player 2
+Player Hand: 8C QD AH 
+The outcome of battle 120 is Player 2
+Battle Number: 121
+Player Number: Player 1
+Player Hand: 8H 2S AD 
+Battle Number: 121
+Player Number: Player 2
+Player Hand: AC 8S 5D 
+The outcome of war 5 is Player 2
+Battle Number: 122
+Player Number: Player 1
+Player Hand: KH JC 3S 
+Battle Number: 122
+Player Number: Player 2
+Player Hand: 8D 9H 10D 
+The outcome of battle 122 is Player 1
+Battle Number: 123
+Player Number: Player 1
+Player Hand: 4C 10H JS 
+Battle Number: 123
+Player Number: Player 2
+Player Hand: QH 7D 4S 
+The outcome of battle 123 is Player 1
+Battle Number: 124
+Player Number: Player 1
+Player Hand: 4D QS 6C 
+Battle Number: 124
+Player Number: Player 2
+Player Hand: 2H JD 7H 
+The outcome of battle 124 is Player 2
+Battle Number: 125
+Player Number: Player 1
+Player Hand: 6H JH 6S 
+Battle Number: 125
+Player Number: Player 2
+Player Hand: 7S 4H 5H 
+The outcome of battle 125 is Player 1
+Battle Number: 126
+Player Number: Player 1
+Player Hand: KS 7C 3S 
+Battle Number: 126
+Player Number: Player 2
+Player Hand: 6D QC 3D 
+The outcome of battle 126 is Player 1
+Battle Number: 127
+Player Number: Player 1
+Player Hand: 9H KH JC 
+Battle Number: 127
+Player Number: Player 2
+Player Hand: 3H 2D 9C 
+The outcome of battle 127 is Player 1
+Battle Number: 128
+Player Number: Player 1
+Player Hand: 8D 10D 4S 
+Battle Number: 128
+Player Number: Player 2
+Player Hand: 5S 9S 3C 
+The outcome of battle 128 is Player 1
+Battle Number: 129
+Player Number: Player 1
+Player Hand: 10H QH 4C 
+Battle Number: 129
+Player Number: Player 2
+Player Hand: KD 9D 10S 
+The outcome of war 5 is Player 2
+Battle Number: 130
+Player Number: Player 1
+Player Hand: JS 6S 5H 
+Battle Number: 130
+Player Number: Player 2
+Player Hand: QD 8C AH 
+The outcome of battle 130 is Player 2
+Battle Number: 131
+Player Number: Player 1
+Player Hand: 4H JH 7S 
+Battle Number: 131
+Player Number: Player 2
+Player Hand: 2C 10C AS 
+The outcome of battle 131 is Player 2
+Battle Number: 132
+Player Number: Player 1
+Player Hand: 6H QC KS 
+Battle Number: 132
+Player Number: Player 2
+Player Hand: 5C 8S 2S 
+The outcome of battle 132 is Player 1
+Battle Number: 133
+Player Number: Player 1
+Player Hand: 3D 7C 3S 
+Battle Number: 133
+Player Number: Player 2
+Player Hand: 8H 5D AD 
+The outcome of battle 133 is Player 2
+Battle Number: 134
+Player Number: Player 1
+Player Hand: 6D 2D 9H 
+Battle Number: 134
+Player Number: Player 2
+Player Hand: AC JD 6C 
+The outcome of battle 134 is Player 2
+Battle Number: 135
+Player Number: Player 1
+Player Hand: KH 9C 3H 
+Battle Number: 135
+Player Number: Player 2
+Player Hand: QS 2H 7H 
+The outcome of battle 135 is Player 1
+Battle Number: 136
+Player Number: Player 1
+Player Hand: JC 10D 8D 
+Battle Number: 136
+Player Number: Player 2
+Player Hand: 4D KC 7D 
+The outcome of battle 136 is Player 1
+Battle Number: 137
+Player Number: Player 1
+Player Hand: 9S 3C 5S 
+Battle Number: 137
+Player Number: Player 2
+Player Hand: 10S 9D 10H 
+The outcome of battle 137 is Player 2
+Battle Number: 138
+Player Number: Player 1
+Player Hand: 4S KS QC 
+Battle Number: 138
+Player Number: Player 2
+Player Hand: KD 4C QH 
+The outcome of war 5 is Player 2
+Battle Number: 139
+Player Number: Player 1
+Player Hand: 2S 8S 6H 
+Battle Number: 139
+Player Number: Player 2
+Player Hand: 5H JS 6S 
+The outcome of war 5 is Player 2
+Battle Number: 140
+Player Number: Player 1
+Player Hand: 7H QS 9C 
+Battle Number: 140
+Player Number: Player 2
+Player Hand: QD 10C JH 
+The outcome of battle 140 is Player 2
+Battle Number: 141
+Player Number: Player 1
+Player Hand: 2H KH JC 
+Battle Number: 141
+Player Number: Player 2
+Player Hand: 2C 4H 7S 
+The outcome of battle 141 is Player 1
+Battle Number: 142
+Player Number: Player 1
+Player Hand: 8D KC 10D 
+Battle Number: 142
+Player Number: Player 2
+Player Hand: AS AD 3S 
+The outcome of battle 142 is Player 2
+Battle Number: 143
+Player Number: Player 1
+Player Hand: 7D 4D JC 
+Battle Number: 143
+Player Number: Player 2
+Player Hand: 3D 8H 7C 
+The outcome of war 5 is Player 1
+Battle Number: 144
+Player Number: Player 1
+Player Hand: 2H 4H 2C 
+Battle Number: 144
+Player Number: Player 2
+Player Hand: 6C AC JD 
+The outcome of battle 144 is Player 2
+Battle Number: 145
+Player Number: Player 1
+Player Hand: KH 5D 7S 
+Battle Number: 145
+Player Number: Player 2
+Player Hand: 6D 9H 2D 
+The outcome of battle 145 is Player 1
+Battle Number: 146
+Player Number: Player 1
+Player Hand: 7D 4D 8H 
+Battle Number: 146
+Player Number: Player 2
+Player Hand: 10H 5S 9S 
+The outcome of battle 146 is Player 2
+Battle Number: 147
+Player Number: Player 1
+Player Hand: 7C JC 3D 
+Battle Number: 147
+Player Number: Player 2
+Player Hand: 3C 9D 10S 
+The outcome of battle 147 is Player 2
+Battle Number: 148
+Player Number: Player 1
+Player Hand: 6D KH 2D 
+Battle Number: 148
+Player Number: Player 2
+Player Hand: 5C 8C 4S 
+The outcome of battle 148 is Player 1
+Battle Number: 149
+Player Number: Player 1
+Player Hand: 7S 5D 9H 
+Battle Number: 149
+Player Number: Player 2
+Player Hand: QC 4C QH 
+The outcome of battle 149 is Player 2
+Battle Number: 150
+Player Number: Player 1
+Player Hand: 4S 8C 5C 
+Battle Number: 150
+Player Number: Player 2
+Player Hand: KD KS 3H 
+The outcome of battle 150 is Player 2
+Battle Number: 151
+Player Number: Player 1
+Player Hand: KH 2D 6D 
+Battle Number: 151
+Player Number: Player 2
+Player Hand: AH 8S 6S 
+The outcome of battle 151 is Player 2
+The outcome of war 5 is Player 2
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 8S KD 7H 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: QH 2H 9C 
+The outcome of battle 1 is Player 2
+Battle Number: 2
+Player Number: Player 1
+Player Hand: KC KS 5D 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: JH 4S 7C 
+The outcome of battle 2 is Player 1
+Battle Number: 3
+Player Number: Player 1
+Player Hand: QS 2D AH 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: 10H 10C 6C 
+The outcome of battle 3 is Player 1
+Battle Number: 4
+Player Number: Player 1
+Player Hand: 9S 6S 3S 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: 8C 8H 2C 
+The outcome of battle 4 is Player 2
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 10S 3D QD 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: 2S 4D 8D 
+The outcome of battle 5 is Player 1
+Battle Number: 6
+Player Number: Player 1
+Player Hand: 5H QC KH 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 6D 9H JC 
+The outcome of battle 6 is Player 1
+Battle Number: 7
+Player Number: Player 1
+Player Hand: 9D 3H AC 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 7S JD 4H 
+The outcome of battle 7 is Player 1
+Battle Number: 8
+Player Number: Player 1
+Player Hand: 5C 6H AD 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: AS 7D 4C 
+The outcome of battle 8 is Player 2
+Battle Number: 9
+Player Number: Player 1
+Player Hand: JS 10D 4S 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: 3C 5S QH 
+The outcome of battle 9 is Player 1
+Battle Number: 10
+Player Number: Player 1
+Player Hand: 5D 7C KC 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: KD 2H 8S 
+The outcome of battle 10 is Player 2
+Battle Number: 11
+Player Number: Player 1
+Player Hand: JH KS 10H 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: 9C 7H 9S 
+The outcome of battle 11 is Player 1
+Battle Number: 12
+Player Number: Player 1
+Player Hand: AH 2D QS 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: 8H 6S 3S 
+The outcome of battle 12 is Player 1
+Battle Number: 13
+Player Number: Player 1
+Player Hand: 10C 6C 10S 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: 8C 2C 6H 
+The outcome of battle 13 is Player 1
+Battle Number: 14
+Player Number: Player 1
+Player Hand: 8D 2S 4D 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 7D AS 5C 
+The outcome of battle 14 is Player 2
+Battle Number: 15
+Player Number: Player 1
+Player Hand: 3D QD JC 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: 4C AD 8S 
+The outcome of battle 15 is Player 1
+Battle Number: 16
+Player Number: Player 1
+Player Hand: KH 6D QC 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: 5D 7C 2H 
+The outcome of battle 16 is Player 1
+Battle Number: 17
+Player Number: Player 1
+Player Hand: 5H 9H 4H 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: KD KC 7D 
+The outcome of battle 17 is Player 2
+Battle Number: 18
+Player Number: Player 1
+Player Hand: AC JD 9D 
+Battle Number: 18
+Player Number: Player 2
+Player Hand: 2S 4D 5C 
+The outcome of battle 18 is Player 1
+Battle Number: 19
+Player Number: Player 1
+Player Hand: 3H 7S 3C 
+Battle Number: 19
+Player Number: Player 2
+Player Hand: 8D AS KC 
+The outcome of battle 19 is Player 2
+Battle Number: 20
+Player Number: Player 1
+Player Hand: 4S 5S 10D 
+Battle Number: 20
+Player Number: Player 2
+Player Hand: 9H KD 5H 
+The outcome of battle 20 is Player 2
+Battle Number: 21
+Player Number: Player 1
+Player Hand: QH JS 9S 
+Battle Number: 21
+Player Number: Player 2
+Player Hand: 4H 7D 8D 
+The outcome of battle 21 is Player 1
+Battle Number: 22
+Player Number: Player 1
+Player Hand: 9C 10H KS 
+Battle Number: 22
+Player Number: Player 2
+Player Hand: AS 7S 3H 
+The outcome of battle 22 is Player 1
+Battle Number: 23
+Player Number: Player 1
+Player Hand: 7H JH 6S 
+Battle Number: 23
+Player Number: Player 2
+Player Hand: KC 3C 4S 
+The outcome of battle 23 is Player 1
+Battle Number: 24
+Player Number: Player 1
+Player Hand: QS 2D AH 
+Battle Number: 24
+Player Number: Player 2
+Player Hand: 5H 10D KD 
+The outcome of battle 24 is Player 1
+Battle Number: 25
+Player Number: Player 1
+Player Hand: 3S 8H 2C 
+Battle Number: 25
+Player Number: Player 2
+Player Hand: 9H 5S 
+The outcome of battle 25 is Player 2
+Battle Number: 26
+Player Number: Player 1
+Player Hand: 6H 6C 10C 
+Battle Number: 26
+Player Number: Player 2
+Player Hand: 3S 5S 9H 
+The outcome of battle 26 is Player 1
+Battle Number: 27
+Player Number: Player 1
+Player Hand: 10S 8C 8S 
+Battle Number: 27
+Player Number: Player 2
+Player Hand: 8H 2C 
+The outcome of war 6 is Player 1
+The winner of game 6 is Player 1
+Battle Number: 1
+Player Number: Player 1
+Player Hand: KD JH 3C 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: 9H 10S QD 
+The outcome of battle 1 is Player 1
+Battle Number: 2
+Player Number: Player 1
+Player Hand: 8S 5S 4H 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: 5C 7H 10C 
+The outcome of battle 2 is Player 2
+Battle Number: 3
+Player Number: Player 1
+Player Hand: 7S JS KC 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: 6S 5D QC 
+The outcome of battle 3 is Player 1
+Battle Number: 4
+Player Number: Player 1
+Player Hand: QS KS 6D 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: 8D 7C 7D 
+The outcome of battle 4 is Player 1
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 2D 10D 8C 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: KH 9D 9S 
+The outcome of battle 5 is Player 2
+Battle Number: 6
+Player Number: Player 1
+Player Hand: 2H 6C 3D 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 3H 3S AH 
+The outcome of battle 6 is Player 2
+Battle Number: 7
+Player Number: Player 1
+Player Hand: 4S JC 4C 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: AC AS AD 
+The outcome of battle 7 is Player 2
+Battle Number: 8
+Player Number: Player 1
+Player Hand: 8H 6H 2C 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: 10H 5H JD 
+The outcome of battle 8 is Player 2
+Battle Number: 9
+Player Number: Player 1
+Player Hand: QH 9C 9H 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: 2S 4D 4H 
+The outcome of battle 9 is Player 1
+Battle Number: 10
+Player Number: Player 1
+Player Hand: KD 3C QD 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: 5C 8S 10C 
+The outcome of battle 10 is Player 1
+Battle Number: 11
+Player Number: Player 1
+Player Hand: 10S JH 7S 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: 5S 7H KH 
+The outcome of battle 11 is Player 1
+Battle Number: 12
+Player Number: Player 1
+Player Hand: KC 6S 5D 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: 8C 9D 2D 
+The outcome of battle 12 is Player 2
+Battle Number: 13
+Player Number: Player 1
+Player Hand: QC JS 8D 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: 10D 9S 3D 
+The outcome of battle 13 is Player 1
+Battle Number: 14
+Player Number: Player 1
+Player Hand: KS QS 7C 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 6C AH 2H 
+The outcome of battle 14 is Player 1
+Battle Number: 15
+Player Number: Player 1
+Player Hand: 6D 7D QH 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: 3H 3S AS 
+The outcome of battle 15 is Player 2
+Battle Number: 16
+Player Number: Player 1
+Player Hand: 4D 9H 4H 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: AD AC 4S 
+The outcome of battle 16 is Player 2
+Battle Number: 17
+Player Number: Player 1
+Player Hand: 2S 9C 10C 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: JC 4C 6H 
+The outcome of battle 17 is Player 1
+Battle Number: 18
+Player Number: Player 1
+Player Hand: KD 5C 3C 
+Battle Number: 18
+Player Number: Player 2
+Player Hand: 5H 8H 10H 
+The outcome of battle 18 is Player 2
+Battle Number: 19
+Player Number: Player 1
+Player Hand: 8S QD 7H 
+Battle Number: 19
+Player Number: Player 2
+Player Hand: JD 2C KC 
+The outcome of battle 19 is Player 2
+Battle Number: 20
+Player Number: Player 1
+Player Hand: 5S 7S KH 
+Battle Number: 20
+Player Number: Player 2
+Player Hand: 6S 2D 5D 
+The outcome of battle 20 is Player 1
+Battle Number: 21
+Player Number: Player 1
+Player Hand: 10S JH 3D 
+Battle Number: 21
+Player Number: Player 2
+Player Hand: 9D 8C QH 
+The outcome of battle 21 is Player 1
+Battle Number: 22
+Player Number: Player 1
+Player Hand: 9S 10D QC 
+Battle Number: 22
+Player Number: Player 2
+Player Hand: 3H 6D 3S 
+The outcome of battle 22 is Player 1
+Battle Number: 23
+Player Number: Player 1
+Player Hand: 8D JS 2H 
+Battle Number: 23
+Player Number: Player 2
+Player Hand: 7D AS 9H 
+The outcome of battle 23 is Player 2
+Battle Number: 24
+Player Number: Player 1
+Player Hand: 7C 6C QS 
+Battle Number: 24
+Player Number: Player 2
+Player Hand: 4D AC 4H 
+The outcome of battle 24 is Player 1
+Battle Number: 25
+Player Number: Player 1
+Player Hand: AH KS 2S 
+Battle Number: 25
+Player Number: Player 2
+Player Hand: AD 4S 3C 
+The outcome of battle 25 is Player 1
+Battle Number: 26
+Player Number: Player 1
+Player Hand: 4C 10C 6H 
+Battle Number: 26
+Player Number: Player 2
+Player Hand: KD 5H 8H 
+The outcome of battle 26 is Player 2
+Battle Number: 27
+Player Number: Player 1
+Player Hand: 9C JC 5D 
+Battle Number: 27
+Player Number: Player 2
+Player Hand: 5C 10H 8S 
+The outcome of battle 27 is Player 1
+Battle Number: 28
+Player Number: Player 1
+Player Hand: 5S KH 7S 
+Battle Number: 28
+Player Number: Player 2
+Player Hand: QD JD 2C 
+The outcome of battle 28 is Player 2
+Battle Number: 29
+Player Number: Player 1
+Player Hand: 2D 6S 10S 
+Battle Number: 29
+Player Number: Player 2
+Player Hand: KC 7H 7D 
+The outcome of battle 29 is Player 2
+Battle Number: 30
+Player Number: Player 1
+Player Hand: QH 9D 8C 
+Battle Number: 30
+Player Number: Player 2
+Player Hand: AS 2H 8D 
+The outcome of battle 30 is Player 1
+Battle Number: 31
+Player Number: Player 1
+Player Hand: 3D JH 9S 
+Battle Number: 31
+Player Number: Player 2
+Player Hand: JS 9H 8H 
+The outcome of war 7 is Player 2
+Battle Number: 32
+Player Number: Player 1
+Player Hand: 3H 3S 10D 
+Battle Number: 32
+Player Number: Player 2
+Player Hand: 4C 6H 5H 
+The outcome of battle 32 is Player 1
+Battle Number: 33
+Player Number: Player 1
+Player Hand: 6D 6C AC 
+Battle Number: 33
+Player Number: Player 2
+Player Hand: 10C QD 5S 
+The outcome of battle 33 is Player 1
+Battle Number: 34
+Player Number: Player 1
+Player Hand: 4D 4H QS 
+Battle Number: 34
+Player Number: Player 2
+Player Hand: 7S KH 2C 
+The outcome of battle 34 is Player 1
+Battle Number: 35
+Player Number: Player 1
+Player Hand: 7C AH KS 
+Battle Number: 35
+Player Number: Player 2
+Player Hand: JD 7H 6S 
+The outcome of battle 35 is Player 1
+Battle Number: 36
+Player Number: Player 1
+Player Hand: 2S 4S AD 
+Battle Number: 36
+Player Number: Player 2
+Player Hand: 2D KC 7D 
+The outcome of battle 36 is Player 2
+Battle Number: 37
+Player Number: Player 1
+Player Hand: 3C 5D 9C 
+Battle Number: 37
+Player Number: Player 2
+Player Hand: 10S QC KD 
+The outcome of battle 37 is Player 2
+Battle Number: 38
+Player Number: Player 1
+Player Hand: 5C 10H 8S 
+Battle Number: 38
+Player Number: Player 2
+Player Hand: JH JS 9H 
+The outcome of battle 38 is Player 2
+Battle Number: 39
+Player Number: Player 1
+Player Hand: JC QH 8C 
+Battle Number: 39
+Player Number: Player 2
+Player Hand: 3D 9S 8H 
+The outcome of battle 39 is Player 1
+Battle Number: 40
+Player Number: Player 1
+Player Hand: 9D 2H AS 
+Battle Number: 40
+Player Number: Player 2
+Player Hand: 2D 7D KC 
+The outcome of battle 40 is Player 1
+Battle Number: 41
+Player Number: Player 1
+Player Hand: 8D 3S 6H 
+Battle Number: 41
+Player Number: Player 2
+Player Hand: 2S 4S AD 
+The outcome of battle 41 is Player 1
+Battle Number: 42
+Player Number: Player 1
+Player Hand: 5H 3H 4C 
+Battle Number: 42
+Player Number: Player 2
+Player Hand: 5D KD QC 
+The outcome of battle 42 is Player 2
+Battle Number: 43
+Player Number: Player 1
+Player Hand: 10D AC 5S 
+Battle Number: 43
+Player Number: Player 2
+Player Hand: 9C 10S 3C 
+The outcome of battle 43 is Player 1
+Battle Number: 44
+Player Number: Player 1
+Player Hand: 6C 6D 10C 
+Battle Number: 44
+Player Number: Player 2
+Player Hand: JH 8S 10H 
+The outcome of war 7 is Player 1
+Battle Number: 45
+Player Number: Player 1
+Player Hand: 7S KH 4H 
+Battle Number: 45
+Player Number: Player 2
+Player Hand: 9H 5C 5H 
+The outcome of battle 45 is Player 1
+Battle Number: 46
+Player Number: Player 1
+Player Hand: 4D 2C QS 
+Battle Number: 46
+Player Number: Player 2
+Player Hand: 5D KD QC 
+The outcome of battle 46 is Player 2
+Battle Number: 47
+Player Number: Player 1
+Player Hand: AH KS 6S 
+Battle Number: 47
+Player Number: Player 2
+Player Hand: 4C 3H KD 
+The outcome of battle 47 is Player 1
+Battle Number: 48
+Player Number: Player 1
+Player Hand: 7C JD 7H 
+Battle Number: 48
+Player Number: Player 2
+Player Hand: 5D QS 4D 
+The outcome of battle 48 is Player 1
+Battle Number: 49
+Player Number: Player 1
+Player Hand: 8H JC 8C 
+Battle Number: 49
+Player Number: Player 2
+Player Hand: 2C QC 
+The outcome of battle 49 is Player 2
+Battle Number: 50
+Player Number: Player 1
+Player Hand: 9S QH 3D 
+Battle Number: 50
+Player Number: Player 2
+Player Hand: QC 8C 2C 
+The outcome of battle 50 is Player 1
+Battle Number: 51
+Player Number: Player 1
+Player Hand: 2H 7D 9D 
+Battle Number: 51
+Player Number: Player 2
+Player Hand: 8H JC 
+The outcome of battle 51 is Player 2
+Battle Number: 52
+Player Number: Player 1
+Player Hand: AS 2D KC 
+Battle Number: 52
+Player Number: Player 2
+Player Hand: 2H 8H JC 
+The outcome of battle 52 is Player 1
+Battle Number: 53
+Player Number: Player 1
+Player Hand: 8D 2S 3S 
+Battle Number: 53
+Player Number: Player 2
+Player Hand: 9D 7D 
+The outcome of battle 53 is Player 2
+Battle Number: 54
+Player Number: Player 1
+Player Hand: 6H 4S AD 
+Battle Number: 54
+Player Number: Player 2
+Player Hand: 7D 8D 9D 
+The outcome of battle 54 is Player 2
+Battle Number: 55
+Player Number: Player 1
+Player Hand: 10D 9C 10S 
+Battle Number: 55
+Player Number: Player 2
+Player Hand: 2S 3S 9D 
+The outcome of battle 55 is Player 1
+Battle Number: 56
+Player Number: Player 1
+Player Hand: 3C 5S AC 
+Battle Number: 56
+Player Number: Player 2
+Player Hand: 4S 6H 7D 
+The outcome of battle 56 is Player 2
+Battle Number: 57
+Player Number: Player 1
+Player Hand: QD JS 6D 
+Battle Number: 57
+Player Number: Player 2
+Player Hand: 8D AD 7D 
+The outcome of battle 57 is Player 1
+Battle Number: 58
+Player Number: Player 1
+Player Hand: 10H JH 10C 
+Battle Number: 58
+Player Number: Player 2
+Player Hand: 6H AC 5S 
+The outcome of battle 58 is Player 1
+Battle Number: 59
+Player Number: Player 1
+Player Hand: 6C 8S 5H 
+Battle Number: 59
+Player Number: Player 2
+Player Hand: 4S 3C 
+The outcome of battle 59 is Player 1
+The winner of game 7 is Player 1
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 5D 6D 3D 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: JC 2D 9D 
+The outcome of battle 1 is Player 2
+Battle Number: 2
+Player Number: Player 1
+Player Hand: 2S KH 7C 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: 6C AH KC 
+The outcome of battle 2 is Player 2
+Battle Number: 3
+Player Number: Player 1
+Player Hand: 4D AS 9C 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: QS 8C JS 
+The outcome of battle 3 is Player 2
+Battle Number: 4
+Player Number: Player 1
+Player Hand: 5S 10H AD 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: 10C KS QD 
+The outcome of battle 4 is Player 2
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 2C 9S 6H 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: QC QH 8H 
+The outcome of battle 5 is Player 2
+Battle Number: 6
+Player Number: Player 1
+Player Hand: AC 10D 7H 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 5H 10S 3H 
+The outcome of battle 6 is Player 1
+Battle Number: 7
+Player Number: Player 1
+Player Hand: 8D 3S 4H 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 6S 7S KD 
+The outcome of battle 7 is Player 2
+Battle Number: 8
+Player Number: Player 1
+Player Hand: JH JD 3C 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: 8S 9H 5C 
+The outcome of battle 8 is Player 1
+Battle Number: 9
+Player Number: Player 1
+Player Hand: 4S 4C 10S 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: 7D 2H 5D 
+The outcome of battle 9 is Player 1
+Battle Number: 10
+Player Number: Player 1
+Player Hand: 7H 10D AC 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: 2D 3D 6D 
+The outcome of battle 10 is Player 1
+Battle Number: 11
+Player Number: Player 1
+Player Hand: 5H 3H 5C 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: JC 9D 2S 
+The outcome of battle 11 is Player 2
+Battle Number: 12
+Player Number: Player 1
+Player Hand: JH 8S 3C 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: AH 6C KC 
+The outcome of battle 12 is Player 2
+Battle Number: 13
+Player Number: Player 1
+Player Hand: 9H JD 4S 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: 7C KH QS 
+The outcome of battle 13 is Player 2
+Battle Number: 14
+Player Number: Player 1
+Player Hand: 10S 5D 7D 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 8C 9C 4D 
+The outcome of battle 14 is Player 2
+Battle Number: 15
+Player Number: Player 1
+Player Hand: 4C 2H 10D 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: AS JS 5S 
+The outcome of battle 15 is Player 2
+Battle Number: 16
+Player Number: Player 1
+Player Hand: 2D 6D AC 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: AD 10C KS 
+The outcome of battle 16 is Player 2
+Battle Number: 17
+Player Number: Player 1
+Player Hand: 3D 7H 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: 10H QD 8H 
+The outcome of battle 17 is Player 2
+The outcome of war 8 is Player 2
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 5C 9S 8H 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: 6S 3D 8S 
+The outcome of battle 1 is Player 1
+Battle Number: 2
+Player Number: Player 1
+Player Hand: 7C 9D KD 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: 10H 6H QS 
+The outcome of battle 2 is Player 2
+Battle Number: 3
+Player Number: Player 1
+Player Hand: 7D JH 4C 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: 4H QD 2C 
+The outcome of battle 3 is Player 1
+Battle Number: 4
+Player Number: Player 1
+Player Hand: JD QH QC 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: 3H 9C 2D 
+The outcome of battle 4 is Player 1
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 2S JC 4S 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: 3S AC 10C 
+The outcome of battle 5 is Player 2
+Battle Number: 6
+Player Number: Player 1
+Player Hand: 4D 6C JS 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 5S 9H KH 
+The outcome of battle 6 is Player 2
+Battle Number: 7
+Player Number: Player 1
+Player Hand: AS 5H 8C 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 2H 7S 8D 
+The outcome of battle 7 is Player 1
+Battle Number: 8
+Player Number: Player 1
+Player Hand: 5D 6D 7H 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: 10D 10S KC 
+The outcome of battle 8 is Player 2
+Battle Number: 9
+Player Number: Player 1
+Player Hand: KS AH 8S 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: AD 3C KD 
+The outcome of war 9 is Player 2
+Battle Number: 10
+Player Number: Player 1
+Player Hand: 3D 5C 9S 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: 10H 7C 6H 
+The outcome of battle 10 is Player 2
+Battle Number: 11
+Player Number: Player 1
+Player Hand: 6S JH QD 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: QS 2S 10C 
+The outcome of battle 11 is Player 1
+Battle Number: 12
+Player Number: Player 1
+Player Hand: 2C 4H 4C 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: JC 3S 4S 
+The outcome of war 9 is Player 2
+Battle Number: 13
+Player Number: Player 1
+Player Hand: QH QC JD 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: 6C KH 5S 
+The outcome of battle 13 is Player 1
+Battle Number: 14
+Player Number: Player 1
+Player Hand: 3H 9C 2D 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 4D 9H JS 
+The outcome of battle 14 is Player 2
+Battle Number: 15
+Player Number: Player 1
+Player Hand: 5H 7S AS 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: 6D 10S KC 
+The outcome of battle 15 is Player 2
+Battle Number: 16
+Player Number: Player 1
+Player Hand: 8C 2H 8D 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: 7H 10D 5D 
+The outcome of battle 16 is Player 1
+Battle Number: 17
+Player Number: Player 1
+Player Hand: 2S JH QS 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: 9D 8H AD 
+The outcome of battle 17 is Player 1
+Battle Number: 18
+Player Number: Player 1
+Player Hand: QD 6S 10C 
+Battle Number: 18
+Player Number: Player 2
+Player Hand: KD AH KS 
+The outcome of battle 18 is Player 2
+Battle Number: 19
+Player Number: Player 1
+Player Hand: QH 6C JD 
+Battle Number: 19
+Player Number: Player 2
+Player Hand: 3C 8S 6H 
+The outcome of battle 19 is Player 1
+Battle Number: 20
+Player Number: Player 1
+Player Hand: QC KH 5S 
+Battle Number: 20
+Player Number: Player 2
+Player Hand: 3D 10H 9S 
+The outcome of battle 20 is Player 1
+Battle Number: 21
+Player Number: Player 1
+Player Hand: 2H 8C 7H 
+Battle Number: 21
+Player Number: Player 2
+Player Hand: 5C 7C AC 
+The outcome of war 9 is Player 2
+Battle Number: 22
+Player Number: Player 1
+Player Hand: 10D 8D JH 
+Battle Number: 22
+Player Number: Player 2
+Player Hand: 4H 3S 4C 
+The outcome of battle 22 is Player 1
+Battle Number: 23
+Player Number: Player 1
+Player Hand: 2S QS 9D 
+Battle Number: 23
+Player Number: Player 2
+Player Hand: 4S JC 2C 
+The outcome of battle 23 is Player 1
+Battle Number: 24
+Player Number: Player 1
+Player Hand: 8H AD JD 
+Battle Number: 24
+Player Number: Player 2
+Player Hand: 9H 4D 9C 
+The outcome of battle 24 is Player 1
+Battle Number: 25
+Player Number: Player 1
+Player Hand: QH 8S 6C 
+Battle Number: 25
+Player Number: Player 2
+Player Hand: JS 2D 3H 
+The outcome of battle 25 is Player 1
+Battle Number: 26
+Player Number: Player 1
+Player Hand: 6H 3C 10H 
+Battle Number: 26
+Player Number: Player 2
+Player Hand: 7S 10S 6D 
+The outcome of battle 26 is Player 2
+Battle Number: 27
+Player Number: Player 1
+Player Hand: KH QC 9S 
+Battle Number: 27
+Player Number: Player 2
+Player Hand: KC 5H AS 
+The outcome of battle 27 is Player 2
+Battle Number: 28
+Player Number: Player 1
+Player Hand: 5S 3D 4H 
+Battle Number: 28
+Player Number: Player 2
+Player Hand: KS 6S KD 
+The outcome of battle 28 is Player 2
+Battle Number: 29
+Player Number: Player 1
+Player Hand: JH 4C 10D 
+Battle Number: 29
+Player Number: Player 2
+Player Hand: AH QD 10C 
+The outcome of battle 29 is Player 2
+Battle Number: 30
+Player Number: Player 1
+Player Hand: 8D 3S 2C 
+Battle Number: 30
+Player Number: Player 2
+Player Hand: 7D 5D 5C 
+The outcome of battle 30 is Player 2
+Battle Number: 31
+Player Number: Player 1
+Player Hand: QS JC 2S 
+Battle Number: 31
+Player Number: Player 2
+Player Hand: 7C AC 8C 
+The outcome of battle 31 is Player 1
+Battle Number: 32
+Player Number: Player 1
+Player Hand: 9D 4S 9C 
+Battle Number: 32
+Player Number: Player 2
+Player Hand: 7H 2H 6H 
+The outcome of battle 32 is Player 1
+Battle Number: 33
+Player Number: Player 1
+Player Hand: 9H 4D JD 
+Battle Number: 33
+Player Number: Player 2
+Player Hand: 3C 6D 10H 
+The outcome of battle 33 is Player 1
+Battle Number: 34
+Player Number: Player 1
+Player Hand: AD 8H 2D 
+Battle Number: 34
+Player Number: Player 2
+Player Hand: 10S 7S QC 
+The outcome of battle 34 is Player 2
+Battle Number: 35
+Player Number: Player 1
+Player Hand: JS 6C 8S 
+Battle Number: 35
+Player Number: Player 2
+Player Hand: KC AS KH 
+The outcome of battle 35 is Player 2
+Battle Number: 36
+Player Number: Player 1
+Player Hand: 3H QH QS 
+Battle Number: 36
+Player Number: Player 2
+Player Hand: 9S 5H 3D 
+The outcome of battle 36 is Player 1
+Battle Number: 37
+Player Number: Player 1
+Player Hand: 7C AC 8C 
+Battle Number: 37
+Player Number: Player 2
+Player Hand: KS 5S KD 
+The outcome of battle 37 is Player 2
+Battle Number: 38
+Player Number: Player 1
+Player Hand: JC 2S 9C 
+Battle Number: 38
+Player Number: Player 2
+Player Hand: 6S 4H 10C 
+The outcome of battle 38 is Player 1
+Battle Number: 39
+Player Number: Player 1
+Player Hand: 4S 2H 7H 
+Battle Number: 39
+Player Number: Player 2
+Player Hand: 4C AH JH 
+The outcome of battle 39 is Player 2
+Battle Number: 40
+Player Number: Player 1
+Player Hand: 6H 9D 9H 
+Battle Number: 40
+Player Number: Player 2
+Player Hand: QD 10D 5D 
+The outcome of battle 40 is Player 2
+Battle Number: 41
+Player Number: Player 1
+Player Hand: 10H 4D 3C 
+Battle Number: 41
+Player Number: Player 2
+Player Hand: 8D 2C 5C 
+The outcome of battle 41 is Player 2
+Battle Number: 42
+Player Number: Player 1
+Player Hand: JD 6D 9S 
+Battle Number: 42
+Player Number: Player 2
+Player Hand: 7D 3S 8H 
+The outcome of battle 42 is Player 1
+Battle Number: 43
+Player Number: Player 1
+Player Hand: QS 3D 5H 
+Battle Number: 43
+Player Number: Player 2
+Player Hand: AD 2D 10S 
+The outcome of battle 43 is Player 2
+Battle Number: 44
+Player Number: Player 1
+Player Hand: QH 3H 6S 
+Battle Number: 44
+Player Number: Player 2
+Player Hand: QC 7S JS 
+The outcome of battle 44 is Player 2
+Battle Number: 45
+Player Number: Player 1
+Player Hand: 9C 10C 2S 
+Battle Number: 45
+Player Number: Player 2
+Player Hand: 6C 8S KC 
+The outcome of battle 45 is Player 1
+Battle Number: 46
+Player Number: Player 1
+Player Hand: JC 4H 7D 
+Battle Number: 46
+Player Number: Player 2
+Player Hand: KH AS KS 
+The outcome of battle 46 is Player 2
+Battle Number: 47
+Player Number: Player 1
+Player Hand: JD 6D 9S 
+Battle Number: 47
+Player Number: Player 2
+Player Hand: 5S AC KD 
+The outcome of battle 47 is Player 2
+Battle Number: 48
+Player Number: Player 1
+Player Hand: 3S 8H 8S 
+Battle Number: 48
+Player Number: Player 2
+Player Hand: 8C 7C 4S 
+The outcome of battle 48 is Player 1
+Battle Number: 49
+Player Number: Player 1
+Player Hand: 9C 10C KC 
+Battle Number: 49
+Player Number: Player 2
+Player Hand: JH 7H 4C 
+The outcome of battle 49 is Player 1
+Battle Number: 50
+Player Number: Player 1
+Player Hand: 6C 2S 4S 
+Battle Number: 50
+Player Number: Player 2
+Player Hand: AH 2H 9D 
+The outcome of battle 50 is Player 2
+Battle Number: 51
+Player Number: Player 1
+Player Hand: 8C 3S 8S 
+Battle Number: 51
+Player Number: Player 2
+Player Hand: 5D 6H QD 
+The outcome of battle 51 is Player 1
+Battle Number: 52
+Player Number: Player 1
+Player Hand: 8H 7C JH 
+Battle Number: 52
+Player Number: Player 2
+Player Hand: 10D 9H 8D 
+The outcome of battle 52 is Player 2
+Battle Number: 53
+Player Number: Player 1
+Player Hand: KC 10C 4C 
+Battle Number: 53
+Player Number: Player 2
+Player Hand: 4D 5C 3C 
+The outcome of battle 53 is Player 1
+Battle Number: 54
+Player Number: Player 1
+Player Hand: 9C 7H QD 
+Battle Number: 54
+Player Number: Player 2
+Player Hand: 10H 2C 10S 
+The outcome of battle 54 is Player 2
+Battle Number: 55
+Player Number: Player 1
+Player Hand: 8S 8C 3S 
+Battle Number: 55
+Player Number: Player 2
+Player Hand: 3D 2D AD 
+The outcome of battle 55 is Player 1
+Battle Number: 56
+Player Number: Player 1
+Player Hand: 6H 5D 5C 
+Battle Number: 56
+Player Number: Player 2
+Player Hand: QS 5H 6S 
+The outcome of battle 56 is Player 2
+Battle Number: 57
+Player Number: Player 1
+Player Hand: KC 3C 4C 
+Battle Number: 57
+Player Number: Player 2
+Player Hand: JS 3H QH 
+The outcome of battle 57 is Player 2
+Battle Number: 58
+Player Number: Player 1
+Player Hand: 4D 10C 3S 
+Battle Number: 58
+Player Number: Player 2
+Player Hand: QC 7S JC 
+The outcome of battle 58 is Player 2
+Battle Number: 59
+Player Number: Player 1
+Player Hand: 8S AD 2D 
+Battle Number: 59
+Player Number: Player 2
+Player Hand: KS AS KH 
+The outcome of battle 59 is Player 2
+Battle Number: 60
+Player Number: Player 1
+Player Hand: 8C 3D 
+Battle Number: 60
+Player Number: Player 2
+Player Hand: 7D 4H 9S 
+The outcome of battle 60 is Player 1
+Battle Number: 61
+Player Number: Player 1
+Player Hand: 3D 4H 9S 
+Battle Number: 61
+Player Number: Player 2
+Player Hand: 6D AC JD 
+The outcome of battle 61 is Player 2
+Battle Number: 62
+Player Number: Player 1
+Player Hand: 7D 8C 
+Battle Number: 62
+Player Number: Player 2
+Player Hand: KD 5S AH 
+The outcome of battle 62 is Player 2
+The outcome of war 9 is Player 2
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 5S 9D AH 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: JH KS AS 
+The outcome of battle 1 is Player 2
+Battle Number: 2
+Player Number: Player 1
+Player Hand: JS 10C 8C 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: QS 5H KH 
+The outcome of battle 2 is Player 2
+Battle Number: 3
+Player Number: Player 1
+Player Hand: 2H JD QC 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: 2C 6H 8S 
+The outcome of battle 3 is Player 1
+Battle Number: 4
+Player Number: Player 1
+Player Hand: AC 8D 4H 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: KD 10H 7C 
+The outcome of battle 4 is Player 2
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 4C JC 7D 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: 10S QD 9C 
+The outcome of battle 5 is Player 2
+Battle Number: 6
+Player Number: Player 1
+Player Hand: 8H 5C 6C 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 2S 5D 9H 
+The outcome of battle 6 is Player 1
+Battle Number: 7
+Player Number: Player 1
+Player Hand: 7H QH 7S 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 6D 4S KC 
+The outcome of battle 7 is Player 1
+Battle Number: 8
+Player Number: Player 1
+Player Hand: 3D 2D 3S 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: 10D 3H 3C 
+The outcome of war 10 is Player 2
+Battle Number: 9
+Player Number: Player 1
+Player Hand: AD QC 2C 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: 4D KS AH 
+The outcome of battle 9 is Player 2
+Battle Number: 10
+Player Number: Player 1
+Player Hand: 6H 2H JD 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: 5S AS 9D 
+The outcome of battle 10 is Player 2
+Battle Number: 11
+Player Number: Player 1
+Player Hand: 8S 5D 2S 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: JH 10C 5H 
+The outcome of battle 11 is Player 2
+Battle Number: 12
+Player Number: Player 1
+Player Hand: 6C 8H 5C 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: QS KH JS 
+The outcome of battle 12 is Player 2
+Battle Number: 13
+Player Number: Player 1
+Player Hand: 9H 6D 7H 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: 8C AC 8D 
+The outcome of battle 13 is Player 2
+Battle Number: 14
+Player Number: Player 1
+Player Hand: QH KC 4S 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 10H 4H 7C 
+The outcome of battle 14 is Player 1
+Battle Number: 15
+Player Number: Player 1
+Player Hand: 7S 10H QH 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: KD 9C 4C 
+The outcome of battle 15 is Player 1
+Battle Number: 16
+Player Number: Player 1
+Player Hand: 4H KC 4S 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: 7D 10S JC 
+The outcome of battle 16 is Player 2
+Battle Number: 17
+Player Number: Player 1
+Player Hand: 7C QH KD 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: QD 9S 6S 
+The outcome of battle 17 is Player 1
+Battle Number: 18
+Player Number: Player 1
+Player Hand: 4C 9C 10H 
+Battle Number: 18
+Player Number: Player 2
+Player Hand: 3S 2D 10D 
+The outcome of battle 18 is Player 1
+Battle Number: 19
+Player Number: Player 1
+Player Hand: 7S QH KD 
+Battle Number: 19
+Player Number: Player 2
+Player Hand: 3C 3H 3D 
+The outcome of battle 19 is Player 1
+Battle Number: 20
+Player Number: Player 1
+Player Hand: 9S 6S 7C 
+Battle Number: 20
+Player Number: Player 2
+Player Hand: 4D QC KS 
+The outcome of battle 20 is Player 2
+Battle Number: 21
+Player Number: Player 1
+Player Hand: QD 10D 9C 
+Battle Number: 21
+Player Number: Player 2
+Player Hand: AD AH 2C 
+The outcome of battle 21 is Player 2
+Battle Number: 22
+Player Number: Player 1
+Player Hand: 3S 2D 4C 
+Battle Number: 22
+Player Number: Player 2
+Player Hand: 6H AS 5S 
+The outcome of battle 22 is Player 2
+Battle Number: 23
+Player Number: Player 1
+Player Hand: 10H QH 3C 
+Battle Number: 23
+Player Number: Player 2
+Player Hand: JD 2H 9D 
+The outcome of battle 23 is Player 1
+Battle Number: 24
+Player Number: Player 1
+Player Hand: KD 7S 3D 
+Battle Number: 24
+Player Number: Player 2
+Player Hand: 5D 2S 8S 
+The outcome of battle 24 is Player 1
+Battle Number: 25
+Player Number: Player 1
+Player Hand: 3H 2H 3C 
+Battle Number: 25
+Player Number: Player 2
+Player Hand: 10C JH 5H 
+The outcome of battle 25 is Player 2
+Battle Number: 26
+Player Number: Player 1
+Player Hand: 10H QH 9D 
+Battle Number: 26
+Player Number: Player 2
+Player Hand: 6C JS QS 
+The outcome of battle 26 is Player 2
+Battle Number: 27
+Player Number: Player 1
+Player Hand: JD 3D 8S 
+Battle Number: 27
+Player Number: Player 2
+Player Hand: 8H 5C KH 
+The outcome of war 10 is Player 2
+Battle Number: 28
+Player Number: Player 1
+Player Hand: 5D 2S KD 
+Battle Number: 28
+Player Number: Player 2
+Player Hand: 9H 7H 6D 
+The outcome of battle 28 is Player 2
+The outcome of war 10 is Player 2
