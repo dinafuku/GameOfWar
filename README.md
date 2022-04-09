@@ -7,9 +7,11 @@ Files:
    Game.java, 
    Player.java, 
    Simulation.java, 
-   WarLogger.java
-   WarLogger.txt
+   WarLogger.java,
+   WarLogger.txt,
    README.md 
+
+   WarLogger.txt stores everything that happens in the game (player hand, outcome, battle number)
 
 How to compile and run:
 
